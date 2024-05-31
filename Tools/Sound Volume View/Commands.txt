@@ -1,0 +1,2 @@
+SoundVolumeView.exe /Mute Speakers
+SoundVolumeView.exe /Unmute Speakers
