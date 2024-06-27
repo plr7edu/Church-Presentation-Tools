@@ -1,0 +1,64 @@
+Select Virtual Desktop
+
+1. Numpad 1 =  Select Virutal Desktop 1 & Activate and Maximize PowerPoint Presenter View Window & Double click on text called "Next" on that Window
+2. Numpad 2 = Select Virutal Desktop 2 & Activate and Maximize EasyWorship Window 
+3. Numpad 3 = Select Virtual Desktop 3
+
+Move and Go Select Window 
+
+4. Left Control + 1 = Go to the 1 st Virtual Desktop with the selected Window.
+5. Left Control + 2 = Go to the 2 nd Virtual Desktop with the selected Window.
+6. Left Control + 3 = Go to the 3 rd Virtual Desktop with the selected Window.
+
+Only Move the Select Window
+
+7. Alt + 1 = Move Select Window to 1 st Virtual Desktop
+8. Alt + 2 = Move Select Window to 2 nd Virtual Desktop
+9. Alt + 3 = Move Select Window to 3 rd Virtual Desktop
+
+Wrapping / Cycle Back to First Desktop When at the Last
+
+10. Left Contorl + Left Arrow = Go to the First Virtual Desktop When you at Last Virtual Desktop (Virtual Desktop 1)
+11. Left Contorl + Right Arrow = Go to the Last Virtual Desktop When you at Last Virtual Desktop (Virtual Desktop 3)
+
+ Move Window to Left or Right and Follow It
+
+12. Win + Alt + Left Arrow = Move Window to Left 
+13. Win + Alt + Right Arrow = Move Window to Right 
+
+My VD.ahk Guide Notes
+
+14. Win + Numpad Multiplication = Open My  "VD.ahk_guide notes.txt" note in script Directory.
+
+Getters
+
+15. F1 = Current Desktop Number
+16. F3 = Virtual Desktop Count 
+17. F6 = Get Window Running or Not (Need to change Window Title in the Script) [Disable by Default]
+
+Create New Virtual Desktop & Remove Virtual Desktops
+
+18. Alt + Numpad+ = Create New Virtual Desktop
+19. Alt + Numpad- = Remove Virtual Desktop
+
+Pin Window 
+
+20. Alt + NumpadEnter =  Pin Window to all Virtual Workspaces
+
+Autohotkey Script
+
+21. Shift + Up Arrow = Pause / Resume Autohotkey Script
+22. F4 = Exit Script
+
+Select Application Windows
+
+23. RControl & Left = Open Powerpoint Live Edit Window
+
+Mouse Wheel
+
+24. Numpad7 = Mouse Wheel Up 2 %
+25. Numpad8 = Mouse Wheel Down 2 %
+
+EasyWorship
+
+26. Numpad5 = Go 2nd Slide in EasyWorship (Hymn Lyrics Start Slide)
