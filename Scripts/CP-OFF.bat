@@ -1,4 +1,4 @@
-:: Mute Volume
+:: Unmute Windows Sound
 START %SYSTEMDRIVE%\CHURCH-PRESENTATION-TOOLS\Tools\"Sound Volume View"\SoundVolumeView.exe /Unmute Speaker
 
 :: Set 10 % Brightness

@@ -1,13 +1,9 @@
-REM --add the following to the top of your bat file--
-
-
 @echo off
 
 :: BatchGotAdmin
 :-------------------------------------
 REM  --> Check for permissions
 >nul 2>&1 "%SYSTEMROOT%\system32\cacls.exe" "%SYSTEMROOT%\system32\config\system"
-
 REM --> If error flag set, we do not have admin.
 if '%errorlevel%' NEQ '0' (
     echo Requesting administrative privileges...
@@ -28,18 +24,22 @@ if '%errorlevel%' NEQ '0' (
     CD /D "%~dp0"
 :--------------------------------------
 
-:: Create a virtual desktop
-START %SYSTEMDRIVE%\CHURCH-PRESENTATION-TOOLS\Tools\"Send Windows Key"\"SendWKey v1.1"\SendWKey.exe #{CTRLDOWN}D{CTRLUP}
+:: Kill Key Manager 
+taskkill /F /IM keymanager.exe /T > nul
 
-:: Start "Windows Desktop Switcher" (Auto Hot Key Script)
-START %SYSTEMDRIVE%\CHURCH-PRESENTATION-TOOLS\Scripts\"Windows Desktop Switcher"\"Windows 10"\desktop_switcher.ahk
+:: Kill "Windows Virtual Desktop Switcher Script" (VD.ahk)
+taskkill /F /IM AutoHotkeyU64.exe /T > nul
 
-:: Start Key Manager 
-::START /min C:\"Program Files (x86)"\"ATNSOFT Key Manager"\keymanager.exe
-"C:\Program Files\SkipUAC\SkipUAC.exe" /ID ywh
+:: Kill EasyWorship7 & EasyWorshop7 Helper
+taskkill /F /IM EasyWorship.exe /T > nul
 
-:: Open EasyWorship7
-START C:\"Program Files (x86)"\Softouch\"EasyWorship 7"\EasyWorship.exe
+:: Kill Unified Remote
+taskkill /F /IM RemoteServerWin.exe /T > nul
 
+:: Close all virtual desktop
+Powershell.exe -executionpolicy remotesigned -File  C:\Church-Presentation-Tools\Scripts\Powershell-Functions\Remove-alldesktops.ps1
 
+:: Kill Powerpoint Presentation
+taskkill /F /IM POWERPNT.exe /T > nul
 
+::@pause

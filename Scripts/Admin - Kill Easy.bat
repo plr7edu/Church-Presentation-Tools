@@ -1,12 +1,9 @@
-REM --add the following to the top of your bat file--
-
 @echo off
 
 :: BatchGotAdmin
 :-------------------------------------
 REM  --> Check for permissions
 >nul 2>&1 "%SYSTEMROOT%\system32\cacls.exe" "%SYSTEMROOT%\system32\config\system"
-
 REM --> If error flag set, we do not have admin.
 if '%errorlevel%' NEQ '0' (
     echo Requesting administrative privileges...
@@ -27,4 +24,6 @@ if '%errorlevel%' NEQ '0' (
     CD /D "%~dp0"
 :--------------------------------------
 
-start C:\"Program Files (x86)"\Softouch\"EasyWorship 7"\EasyWorship.exe
+:: Kill EasyWorship7 & EasyWorshop7 Helper
+taskkill /F /IM EasyWorship.exe /T > nul
+

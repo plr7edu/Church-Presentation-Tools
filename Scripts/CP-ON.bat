@@ -1,4 +1,4 @@
-:: Mute Volume
+:: Mute Windows Sound
 START %SYSTEMDRIVE%\CHURCH-PRESENTATION-TOOLS\Tools\"Sound Volume View"\SoundVolumeView.exe /Mute Speaker
 
 :: Set Maximum Brightness
