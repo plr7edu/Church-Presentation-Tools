@@ -1,7 +1,7 @@
 # PowerShell script to set a random desktop wallpaper
 
 param (
-    [string]$folderPath = "D:\MY-WALL",
+    [string]$folderPath = "$HOME\Pictures\MY-WALL",
     [string]$logPath = $null,  # Making log file optional with a default value of $null
     [switch]$skipLogging = $false  # Adding a switch parameter to skip logging
 )
