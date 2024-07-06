@@ -1,9 +1,9 @@
 /*
-██    ██ ██████      ███████ ██   ██  █████  ███    ███ ██████  ██      ███████ ███████     █████  ██   ██ ██   ██ 
-██    ██ ██   ██     ██       ██ ██  ██   ██ ████  ████ ██   ██ ██      ██      ██         ██   ██ ██   ██ ██  ██  
-██    ██ ██   ██     █████     ███   ███████ ██ ████ ██ ██████  ██      █████   ███████    ███████ ███████ █████   
- ██  ██  ██   ██     ██       ██ ██  ██   ██ ██  ██  ██ ██      ██      ██           ██    ██   ██ ██   ██ ██  ██  
-  ████   ██████      ███████ ██   ██ ██   ██ ██      ██ ██      ███████ ███████ ███████ ██ ██   ██ ██   ██ ██   ██                                                                                                                                                                                                                                 
+██    ██ ██████      ███████ ██   ██  █████  ███    ███ ██████  ██      ███████ ███████     █████  ██   ██ ██   ██
+██    ██ ██   ██     ██       ██ ██  ██   ██ ████  ████ ██   ██ ██      ██      ██         ██   ██ ██   ██ ██  ██
+██    ██ ██   ██     █████     ███   ███████ ██ ████ ██ ██████  ██      █████   ███████    ███████ ███████ █████
+ ██  ██  ██   ██     ██       ██ ██  ██   ██ ██  ██  ██ ██      ██      ██           ██    ██   ██ ██   ██ ██  ██
+  ████   ██████      ███████ ██   ██ ██   ██ ██      ██ ██      ███████ ███████ ███████ ██ ██   ██ ██   ██ ██   ██
 */
 
 ; === SYMBOLS ===
@@ -11,8 +11,8 @@
 ; +   <- Shift
 ; ^   <- Ctrl
 ; #   <- Win
-; For more, visit https://autohotkey.com/docs/Hotkeys.htm                                                                                                                   
-                                                                                                                
+; For more, visit https://autohotkey.com/docs/Hotkeys.htm
+
 
 ; ==========================================================================================================================================
 ; === START SETUP ==========================================================================================================================
@@ -33,7 +33,7 @@ Process, Priority,, H
 SetWinDelay -1
 SetControlDelay -1
 
-SetNumLockState, On                            ; Make Sure Numlock Enable 
+SetNumLockState, On                            ; Make Sure Numlock Enable
 
 
 ; ==========================================================================================================================================
@@ -55,7 +55,7 @@ _VD.ahk : `VD.init()` when you want, like after a GUI has rendered, for startup 
 WinHide, % "Malwarebytes Tray Application"     ; You should WinHide invisible programs that have a window.
 ;#SETUP END
 
-#Include <FindText>                            ; Add FindText 
+#Include <FindText>                            ; Add FindText
 
 
 ; ==========================================================================================================================================
@@ -76,8 +76,8 @@ return
 
 
 ; Select Virutal Desktop 1 & Activate and Maximize PowerPoint Presenter View Window & Double click on text called "Next" on that Window
-numpad1::                                
-    VD.goToDesktopNum(1), 
+numpad1::
+    VD.goToDesktopNum(1),
     if WinExist("ahk_class PodiumParent")
     WinActivate,
     WinMaximize,
@@ -86,17 +86,17 @@ Text:="|<Powerpoint Next>*81$38.7szzzwkyDzzzA7Xzzzn1sw6C01CCMnbAFXDCFn6MnlYwlmA0
 
 if (ok:=FindText(X, Y, 1317-150000, 100-150000, 1317+150000, 100+150000, 0, 0, Text))
 {
-    FindText().Click(X, Y, "L") 
-}    
+    FindText().Click(X, Y, "L")
+}
 Return
 
 
-; Select Virutal Desktop 2 & Activate and Maximize EasyWorship Window 
+; Select Virutal Desktop 2 & Activate and Maximize EasyWorship Window
 numpad2::
-    VD.goToDesktopNum(2), 
+    VD.goToDesktopNum(2),
     if WinExist("EasyWorship")
     WinActivate,
-    WinMaximize, 
+    WinMaximize,
 Return
 
 
@@ -104,7 +104,7 @@ Return
 numpad3::VD.goToDesktopNum(3)
 
 
-; Move and Go Select Window ---------------------------------------------------------------------------------------------------------------- 
+; Move and Go Select Window ----------------------------------------------------------------------------------------------------------------
 
 
 ;Go to the 1 st Virtual Desktop with the selected Window.
@@ -143,10 +143,10 @@ LControl & right::VD.goToRelativeDesktopNum(+1)
 ; Move Window to Left or Right and Follow It -----------------------------------------------------------------------------------------------
 
 
-;Move Window to Left 
+;Move Window to Left
 #!left::VD.goToDesktopNum(VD.MoveWindowToRelativeDesktopNum("A", -1))
 
-;Move Window to Right 
+;Move Window to Right
 #!right::VD.goToDesktopNum(VD.MoveWindowToRelativeDesktopNum("A", 1))
 
 
@@ -167,12 +167,12 @@ f1::
     msgbox % VD.getCurrentDesktopNum()
 return
 
-; Virtual Desktop Count 
+; Virtual Desktop Count
 f3::
     msgbox % VD.getCount()
 return
 
-; Get Window Running or Not (Need to change Window Title in the Script) 
+; Get Window Running or Not (Need to change Window Title in the Script)
 f6::
     ; msgbox % VD.getDesktopNumOfWindow("WinTitle")
     ; msgbox % VD.getDesktopNumOfWindow("notepad.exe")
@@ -183,7 +183,7 @@ return
 
 
 ; Create New Virtual Desktop and Go to newly created
-!NumpadAdd::VD.createDesktop(true) 
+!NumpadAdd::VD.createDesktop(true)
 
 ; Remove Currnet Virtual Desktop
 !NumpadSub::VD.removeDesktop(VD.getCurrentDesktopNum())
@@ -216,9 +216,21 @@ f4::Exitapp
 
 
 ; Open Powerpoint Live Edit Window
-;RControl &  Left::
 Numpad6::
     if WinExist("ahk_class PPTFrameClass")
+    WinActivate,
+    WinMaximize,
+Return
+
+; Minimize Easy Worship And Show Live Output (Full Screen)
+;Numpad5::
+;    if WinExist("EasyWorship")
+;    WinMinimize,
+;Return
+
+; Open EasyWorship Live Output (Full Screen)
+Numpad5::
+    if WinExist("ahk_class TForm_LiveOutput")
     WinActivate,
     WinMaximize,
 Return
@@ -239,7 +251,7 @@ Numpad8:: MouseClick,WheelDown,,,2,0,D,R
 ; Go 2nd Slide in EasyWorship (Hymn Lyrics Start Slide)
 SetTitleMatchMode, 2
 #IfWinActive EasyWorship
-Numpad5::Send "{2}{Enter}"
+Numpad4::Send "{2}{Enter}"
 
 
 
