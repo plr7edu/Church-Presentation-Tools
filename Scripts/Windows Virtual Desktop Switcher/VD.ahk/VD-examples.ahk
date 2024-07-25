@@ -52,8 +52,6 @@ VD.ahk : calls `VD.init()` on #Include
 _VD.ahk : `VD.init()` when you want, like after a GUI has rendered, for startup performance reasons
 */
 
-WinHide, % "Malwarebytes Tray Application"     ; You should WinHide invisible programs that have a window.
-;#SETUP END
 
 #Include <FindText>                            ; Add FindText
 
