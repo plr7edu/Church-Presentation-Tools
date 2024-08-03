@@ -32,6 +32,7 @@ taskkill /F /IM AutoHotkeyU64.exe /T > nul
 
 :: Kill EasyWorship7 & EasyWorshop7 Helper
 taskkill /F /IM EasyWorship.exe /T > nul
+taskkill /F /IM EasyWorshipHelper.exe /T > nul
 
 :: Kill Unified Remote
 taskkill /F /IM RemoteServerWin.exe /T > nul
