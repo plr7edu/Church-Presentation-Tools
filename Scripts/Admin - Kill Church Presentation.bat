@@ -38,7 +38,10 @@ taskkill /F /IM EasyWorshipHelper.exe /T > nul
 taskkill /F /IM RemoteServerWin.exe /T > nul
 
 :: Close all virtual desktop
-Powershell.exe -executionpolicy remotesigned -File  C:\Church-Presentation-Tools\Scripts\Powershell-Functions\Remove-alldesktops.ps1
+::Powershell.exe -executionpolicy remotesigned -File  C:\Church-Presentation-Tools\Scripts\Powershell-Functions\Remove-alldesktops.ps1
+
+:: Close active virtual desktop using "VD.ahk"
+START %SYSTEMDRIVE%\CHURCH-PRESENTATION-TOOLS\Scripts\"Windows Virtual Desktop Switcher"\VD.ahk\VD-examples-remove-virutal-dekstops.ahk
 
 :: Kill Powerpoint Presentation
 taskkill /F /IM POWERPNT.exe /T > nul
