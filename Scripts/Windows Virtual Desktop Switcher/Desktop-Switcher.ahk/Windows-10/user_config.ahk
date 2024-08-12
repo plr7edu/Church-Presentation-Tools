@@ -18,7 +18,7 @@ SetNumLockState, On                            ; Make Sure Numlock Enable
 ; === INCLUDE THE LIBRARY ==================================================================================================================
 ; ==========================================================================================================================================
 
-#Include <FindText>                         ; Add FindText
+#Include <FindTextV1>                            ; Add FindText V1
 
 ; ====================
 ; === INSTRUCTIONS ===
@@ -68,13 +68,15 @@ numpad1::
     WinActivate,
     WinMaximize,
 
-Text:="|<Powerpoint Next>*81$38.7szzzwkyDzzzA7Xzzzn1sw6C01CCMnbAFXDCFn6MnlYwlmA0QTAQ3Dz7n7UnzUwlsAztDAT3bAtn7sw6CA8"
+Text:="|<>*90$43.7wzzzzzXyTzzzzkzDzzzwsDbzzzyQbnzzzzCFty3Xk0AwwQstnbCSTCNtnXCDbYwttbDnkyQwHU1wzCT9nzwDbDktzy3nbsSTyNtnyD7iSQNz7s6D72"
 
-if (ok:=FindText(X, Y, 1317-150000, 100-150000, 1317+150000, 100+150000, 0, 0, Text))
+if (ok:=FindText(X, Y, 1320-150000, 103-150000, 1320+150000, 103+150000, 0, 0, Text))
 {
-    FindText().Click(X, Y, "L")
+   FindText().Click(X, Y, "L")
 }
+
 Return
+
 
 ; Select Virutal Desktop 2 & Activate and Maximize EasyWorship Window
 numpad2::

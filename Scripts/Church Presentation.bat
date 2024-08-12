@@ -1,5 +1,12 @@
 @echo off
 
+echo "     __    ___ ____  __ ____  ______    __      ___    ___  ____   __ __  __   ___    ";
+echo "    (( \  //   || \\ || || \\ | || |    ||     // \\  // \\ || \\  || ||\ ||  // \\   ";
+echo "     \\  ((    ||_// || ||_//   ||      ||    ((   )) ||=|| ||  )) || ||\\|| (( ___   ";
+echo "    \_))  \\__ || \\ || ||      ||      ||__|  \\_//  || || ||_//  || || \||  \\_||   ";
+echo "                                                                                      ";
+
+
 :: Close all active virtual desktop
 Powershell.exe -executionpolicy remotesigned -File  C:\Church-Presentation-Tools\Scripts\Powershell-Functions\Remove-alldesktops.ps1
 

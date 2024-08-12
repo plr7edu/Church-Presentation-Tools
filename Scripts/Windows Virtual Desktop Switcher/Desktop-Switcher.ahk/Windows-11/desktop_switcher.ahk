@@ -42,7 +42,7 @@ mapDesktopsFromRegistry()
         if ErrorLevel {
             RegRead, CurrentDesktopId, HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\SessionInfo\%SessionId%\VirtualDesktops, CurrentVirtualDesktop
         }
-        
+
         if (CurrentDesktopId) {
             IdLength := StrLen(CurrentDesktopId)
         }
