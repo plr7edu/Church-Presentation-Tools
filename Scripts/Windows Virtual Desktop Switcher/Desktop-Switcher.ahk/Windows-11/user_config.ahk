@@ -18,7 +18,7 @@ SetNumLockState, On                            ; Make Sure Numlock Enable
 ; === INCLUDE THE LIBRARY ==================================================================================================================
 ; ==========================================================================================================================================
 
-#Include <FindTextV1>                            ; Add FindText V1
+#Include <FindText>                            ; Add FindText V1
 
 ; ====================
 ; === INSTRUCTIONS ===
@@ -68,9 +68,9 @@ numpad1::
     WinActivate,
     WinMaximize,
 
-Text:="|<>*90$43.7wzzzzzXyTzzzzkzDzzzwsDbzzzyQbnzzzzCFty3Xk0AwwQstnbCSTCNtnXCDbYwttbDnkyQwHU1wzCT9nzwDbDktzy3nbsSTyNtnyD7iSQNz7s6D72"
+Text:="|<>*90$43.3wzzzznUyTzzztmTDzzzwt7bsCD00nnlnXbCQttwtbbCAsySHnbaQzD3tnlC07nwtwbDzkyQz3bzsDCTVtztbbDswSttlbwTUMwQ8"
 
-if (ok:=FindText(X, Y, 1320-150000, 103-150000, 1320+150000, 103+150000, 0, 0, Text))
+if (ok:=FindText(X, Y, 1320-150000, 104-150000, 1320+150000, 104+150000, 0, 0, Text))
 {
    FindText().Click(X, Y, "L")
 }
