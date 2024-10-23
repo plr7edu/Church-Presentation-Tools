@@ -43,6 +43,9 @@ taskkill /F /IM RemoteServerWin.exe /T > nul
 :: Close active virtual desktop using "VD.ahk"
 START %SYSTEMDRIVE%\CHURCH-PRESENTATION-TOOLS\Scripts\"Windows Virtual Desktop Switcher"\VD.ahk\VD-examples-remove-virutal-dekstops.ahk
 
+:: Kill WindowManager
+taskkill /F /IM WindowManager.exe /T > nul
+
 :: Kill Powerpoint Presentation
 taskkill /F /IM POWERPNT.exe /T > nul
 

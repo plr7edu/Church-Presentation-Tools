@@ -18,7 +18,7 @@ SetNumLockState, On                            ; Make Sure Numlock Enable
 ; === INCLUDE THE LIBRARY ==================================================================================================================
 ; ==========================================================================================================================================
 
-#Include <FindText>                            ; Add FindText V1
+;#Include <FindText>                            ; Add FindText
 
 ; ====================
 ; === INSTRUCTIONS ===
@@ -63,27 +63,13 @@ CapsLock & 9::switchDesktopByNumber(9)
 
 ; Select Virutal Desktop 1 & Activate and Maximize PowerPoint Presenter View Window & Double click on text called "Next" on that Window
 numpad1::
-    switchDesktopByNumber(1),
-    if WinExist("ahk_class PodiumParent")
-    WinActivate,
-    WinMaximize,
-
-Text:="|<>*90$43.3wzzzznUyTzzztmTDzzzwt7bsCD00nnlnXbCQttwtbbCAsySHnbaQzD3tnlC07nwtwbDzkyQz3bzsDCTVtztbbDswSttlbwTUMwQ8"
-
-if (ok:=FindText(X, Y, 1320-150000, 104-150000, 1320+150000, 104+150000, 0, 0, Text))
-{
-   FindText().Click(X, Y, "L")
-}
-
+Run, "C:\Church-Presentation-Tools\Scripts\WindowManager Batch Scripts\Virual_Desktop_1-Powerpoint.vbs"
 Return
 
 
 ; Select Virutal Desktop 2 & Activate and Maximize EasyWorship Window
 numpad2::
-    switchDesktopByNumber(2),
-    if WinExist("EasyWorship")
-    WinActivate,
-    WinMaximize,
+Run, "C:\Church-Presentation-Tools\Scripts\WindowManager Batch Scripts\Virtual_Desktop_2-EasyWorship.vbs"
 Return
 
 
@@ -109,10 +95,15 @@ f4::Exitapp
 
 
 ; Open Powerpoint Live Edit Window
+;Numpad6::
+;    if WinExist("ahk_class PPTFrameClass")
+;    WinActivate,
+;    WinMaximize,
+;Return
+
+
 Numpad6::
-    if WinExist("ahk_class PPTFrameClass")
-    WinActivate,
-    WinMaximize,
+Run, "C:\Church-Presentation-Tools\Scripts\WindowManager Batch Scripts\Virual_Desktop_1-Powerpoint_Edit_Window.vbs"
 Return
 
 ; Minimize Easy Worship And Show Live Output (Full Screen)

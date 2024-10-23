@@ -32,4 +32,6 @@ START /max C:\"Program Files (x86)"\Softouch\"EasyWorship 7"\EasyWorship.exe
 ::Start Unified Remote
 START /min C:\"Program Files (x86)"\"Unified Remote 3"\RemoteServerWin.exe
 
+::Start WindowsManager
+START WindowManager.exe -MINIMIZE 
 
