@@ -26,12 +26,28 @@ if '%errorlevel%' NEQ '0' (
 :--------------------------------------
 
 @echo off
-
-echo "     __    ___ ____  __ ____  ______    __      ___    ___  ____   __ __  __   ___    ";
-echo "    (( \  //   || \\ || || \\ | || |    ||     // \\  // \\ || \\  || ||\ ||  // \\   ";
-echo "     \\  ((    ||_// || ||_//   ||      ||    ((   )) ||=|| ||  )) || ||\\|| (( ___   ";
-echo "    \_))  \\__ || \\ || ||      ||      ||__|  \\_//  || || ||_//  || || \||  \\_||   ";
-echo "                                                                                      ";
+if not "%1"=="max" start /max cmd /c %0 max & Exit /b
+chcp 65001 > nul
+color 0A
+:::  ____            _       _     _       _                    _ _                     
+::: / ___|  ___ _ __(_)_ __ | |_  (_)___  | |    ___   __ _  __| (_)_ __   __ _         
+::: \___ \ / __| '__| | '_ \| __| | / __| | |   / _ \ / _` |/ _` | | '_ \ / _` |        
+:::  ___) | (__| |  | | |_) | |_  | \__ \ | |__| (_) | (_| | (_| | | | | | (_| |  _ _ _ 
+::: |____/ \___|_|  |_| .__/ \__| |_|___/ |_____\___/ \__,_|\__,_|_|_| |_|\__, | (_(_(_)
+:::                   |_|                                                 |___/         
+:::                                                                                                 
+:::                                                                           ╔════════════════════╗
+:::                                                                           ║     The system     ║
+:::                                            ╔═══════════════╗              ║    was developed   ║
+:::                                            ║  The system   ║              ║      by PLR        ║
+:::                                            ║ was developed ║              ╚══════════════════o═╝
+:::                                            ║   by PLR      ║─────────────────┘  
+:::                                            ╚═══════════════╝                    
+:::                                           /::::::::::::::::\
+:::                                          /:::::════════:::::\ 
+:::                                          ════════════════════ 
+for /f "delims=: tokens=*" %%x in ('findstr /b ::: "%~f0"') do @echo(%%x
+chcp 1252 > nul
 
 :: Close all active virtual desktop
 Powershell.exe -executionpolicy remotesigned -File  C:\Church-Presentation-Tools\Scripts\Powershell-Functions\Remove-alldesktops.ps1
@@ -59,6 +75,6 @@ START /max C:\"Program Files (x86)"\Softouch\"EasyWorship 7"\EasyWorship.exe
 START /min C:\"Program Files (x86)"\"Unified Remote 3"\RemoteServerWin.exe
 
 ::Start WindowsManager
-START WindowManager.exe -MINIMIZE 
+::START WindowManager.exe -MINIMIZE 
 
 

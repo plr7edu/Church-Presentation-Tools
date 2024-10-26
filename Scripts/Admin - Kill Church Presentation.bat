@@ -24,6 +24,19 @@ if '%errorlevel%' NEQ '0' (
     CD /D "%~dp0"
 :--------------------------------------
 
+@echo off
+if not "%1"=="max" start /max cmd /c %0 max & Exit /b
+chcp 65001 > nul
+color 0C
+:::  _  __  _   _   _     ____                  _           _   
+::: | |/ / (_) | | | |   / ___|    ___   _ __  (_)  _ __   | |_ 
+::: | ' /  | | | | | |   \___ \   / __| | '__| | | | '_ \  | __|
+::: | . \  | | | | | |    ___) | | (__  | |    | | | |_) | | |_ 
+::: |_|\_\ |_| |_| |_|   |____/   \___| |_|    |_| | .__/   \__|
+:::                                                |_|          
+for /f "delims=: tokens=*" %%x in ('findstr /b ::: "%~f0"') do @echo(%%x
+chcp 1252 > nul
+
 :: Kill Key Manager 
 taskkill /F /IM keymanager.exe /T > nul
 
@@ -44,7 +57,7 @@ taskkill /F /IM RemoteServerWin.exe /T > nul
 START %SYSTEMDRIVE%\CHURCH-PRESENTATION-TOOLS\Scripts\"Windows Virtual Desktop Switcher"\VD.ahk\VD-examples-remove-virutal-dekstops.ahk
 
 :: Kill WindowManager
-taskkill /F /IM WindowManager.exe /T > nul
+::taskkill /F /IM WindowManager.exe /T > nul
 
 :: Kill Powerpoint Presentation
 taskkill /F /IM POWERPNT.exe /T > nul
