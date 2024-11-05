@@ -1,0 +1,1 @@
+"C:\Program Files\SkipUAC\SkipUAC.exe" /ID lzb

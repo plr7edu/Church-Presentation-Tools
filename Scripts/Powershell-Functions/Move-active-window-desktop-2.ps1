@@ -1,1 +1,0 @@
-﻿Move-ActiveWindow -Desktop 2
