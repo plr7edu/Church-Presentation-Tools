@@ -117,7 +117,7 @@ for /L %%N in (0 1 84 %processValue%) do (
 )
 
 :: Unpin WindowsTerminal Window to all Virtual Deskops using VirtualDesktop.exe (C++)
-VirtualDesktop11-24H2.exe /q upa:WindowsTerminal
+VirtualDesktop11-24H2.exe /q upa:WindowsTerminal 
 for /L %%N in (0 1 100 %processValue%) do (
   set /a showBar=%%N*barLength/processValue
   echo %TAB% Percent : 100 %% %TAB% Processing : Unpin WindowsTerminal                                                  !LF!%ESC%[2A%ESC%[!showBar!C%bar%
@@ -125,4 +125,4 @@ for /L %%N in (0 1 100 %processValue%) do (
 )
 
 ::pause
-exit 
+exit >nul 2>&1

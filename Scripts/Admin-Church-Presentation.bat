@@ -134,4 +134,4 @@ for /L %%N in (0 1 100 %processValue%) do (
 gsudo -k >nul 2>&1
 
 ::pause
-exit 
+exit >nul 2>&1
