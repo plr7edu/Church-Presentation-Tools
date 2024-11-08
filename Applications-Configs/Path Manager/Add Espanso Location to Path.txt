@@ -1,0 +1,2 @@
+%localappdata%\espanso\
+C:\Users\player-1\AppData\Local\Programs\Espanso
