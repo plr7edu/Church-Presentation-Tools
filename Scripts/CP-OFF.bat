@@ -74,3 +74,4 @@ for /L %%N in (0 1 25 %processValue%) do (
   ping -4 -n 1 127.0.0.1 >nul
 )
 
+::pause

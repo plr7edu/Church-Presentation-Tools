@@ -1,6 +1,6 @@
 @echo off
 
-:: Date 2024-11-03-14.27.38
+:: Date 2024-11-10-18.25.55
 
 SETLOCAL EnableDelayedExpansion
 
@@ -90,7 +90,8 @@ for /L %%N in (0 1 48 %processValue%) do (
 
 :: Start KeyManager 
 ::START /min C:\"Program Files (x86)"\"ATNSOFT Key Manager"\keymanager.exe
-"C:\Program Files\SkipUAC\SkipUAC.exe" /ID ywh
+::"C:\Program Files\SkipUAC\SkipUAC.exe" /ID ywh
+START C:\Church-Presentation-Tools\Scripts\AutoHotkey\KeyManager-Skip-UAC.exe
 for /L %%N in (0 1 60 %processValue%) do (
   set /a showBar=%%N*barLength/processValue
   echo %TAB% Percent : 60 %% %TAB% Processing : Start KeyManager                                                       !LF!%ESC%[2A%ESC%[!showBar!C%bar%
@@ -125,4 +126,4 @@ for /L %%N in (0 1 100 %processValue%) do (
 )
 
 ::pause
-exit >nul 2>&1
+exit 
