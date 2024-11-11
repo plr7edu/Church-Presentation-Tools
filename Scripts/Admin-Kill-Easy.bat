@@ -1,5 +1,7 @@
 @echo off
 
+title Admin-Kill-Easy
+
 :: BatchGotAdmin
 :-------------------------------------
 REM  --> Check for permissions
@@ -23,8 +25,6 @@ if '%errorlevel%' NEQ '0' (
     pushd "%CD%"
     CD /D "%~dp0"
 :--------------------------------------
-
-title Admin-Kill-Easy
 
 :: Kill EasyWorship7 & EasyWorshop7 Helper
 taskkill /F /IM EasyWorship.exe /T > nul

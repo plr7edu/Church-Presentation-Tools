@@ -2,6 +2,8 @@
 
 :: Date 2024-11-10-18.25.55
 
+title Admin - Church Presentation
+
 SETLOCAL EnableDelayedExpansion
 
 set /a "processValue=100"
@@ -52,7 +54,7 @@ for /l %%N in (0 1 !barLength!) do echo(!LF!%ESC%[2A%ESC%[%%NC%tbd%
 gsudo cache on >nul 2>&1
 
 :: Pin WindowsTerminal Window to all Virtual Deskops using VirtualDesktop.exe (C++)
-gsudo VirtualDesktop11-24H2.exe /q pa:WindowsTerminal
+gsudo VirtualDesktop11-24H2.exe /q pa:WindowsTerminal >nul 2>&1
 for /L %%N in (0 1 12 %processValue%) do (
   set /a showBar=%%N*barLength/processValue
   echo %TAB% Percent : 12 %% %TAB% Processing : Pin WindowsTerminal                                                     !LF!%ESC%[2A%ESC%[!showBar!C%bar%
@@ -63,7 +65,7 @@ for /L %%N in (0 1 12 %processValue%) do (
 ::Powershell.exe -executionpolicy remotesigned -File  C:\Church-Presentation-Tools\Scripts\Powershell-Functions\Remove-alldesktops.ps1
 
 :: Close all Virtual Desktops using VirtualDesktop.exe (C++)
-gsudo VirtualDesktop11-24H2.exe /q /RemoveAll
+gsudo VirtualDesktop11-24H2.exe /q /RemoveAll >nul 2>&1
 for /L %%N in (0 1 24 %processValue%) do (
   set /a showBar=%%N*barLength/processValue
   echo %TAB% Percent : 24 %% %TAB% Processing : Close All Virtual Desktops                                              !LF!%ESC%[2A%ESC%[!showBar!C%bar%
@@ -77,7 +79,7 @@ for /L %%N in (0 1 24 %processValue%) do (
 ::START %SYSTEMDRIVE%\CHURCH-PRESENTATION-TOOLS\Scripts\"Windows Virtual Desktop Switcher"\VD.ahk\VD-examples-start-virutal-dekstops.ahk
 
 :: Create 2 Virtual Desktops & Start "Desktop Switcher Script" 
-gsudo START %SYSTEMDRIVE%\CHURCH-PRESENTATION-TOOLS\Scripts\Windows-Virtual-Desktop-Switcher\Desktop-Switcher.ahk\Windows-11\desktop_switcher.ahk
+gsudo START %SYSTEMDRIVE%\CHURCH-PRESENTATION-TOOLS\Scripts\Windows-Virtual-Desktop-Switcher\Desktop-Switcher.ahk\Windows-11\desktop_switcher.ahk >nul 2>&1
 for /L %%N in (0 1 36 %processValue%) do (
   set /a showBar=%%N*barLength/processValue
   echo %TAB% Percent : 36 %% %TAB% Processing : Create 2 Virtual Desktops, Open Switcher Script                        !LF!%ESC%[2A%ESC%[!showBar!C%bar%
@@ -88,7 +90,7 @@ for /L %%N in (0 1 36 %processValue%) do (
 ::Powershell.exe -executionpolicy remotesigned -File  C:\Church-Presentation-Tools\Scripts\Powershell-Functions\Move-desktop-2.ps1
 
 :: Move to Second Virtual Desktop using VirtualDesktop.exe (C++)
-gsudo VirtualDesktop11-24H2.exe /q "-Switch:Desktop 2"
+gsudo VirtualDesktop11-24H2.exe /q "-Switch:Desktop 2" >nul 2>&1
 for /L %%N in (0 1 48 %processValue%) do (
   set /a showBar=%%N*barLength/processValue
   echo %TAB% Percent : 48 %% %TAB% Processing : Move to Second Virtual Desktop                                          !LF!%ESC%[2A%ESC%[!showBar!C%bar%
@@ -106,7 +108,7 @@ for /L %%N in (0 1 60 %processValue%) do (
 )
 
 :: Start Unified Remote
-gsudo START /min C:\"Program Files (x86)"\"Unified Remote 3"\RemoteServerWin.exe
+gsudo START /min C:\"Program Files (x86)"\"Unified Remote 3"\RemoteServerWin.exe >nul 2>&1
 for /L %%N in (0 1 72 %processValue%) do (
   set /a showBar=%%N*barLength/processValue
   echo %TAB% Percent : 72 %% %TAB% Processing : Start Unified Remote                                                   !LF!%ESC%[2A%ESC%[!showBar!C%bar%
@@ -117,7 +119,7 @@ for /L %%N in (0 1 72 %processValue%) do (
 ::START WindowManager.exe -MINIMIZE 
 
 :: Start EasyWorship
-gsudo START /max C:\"Program Files (x86)"\Softouch\"EasyWorship 7"\EasyWorship.exe
+gsudo START /max C:\"Program Files (x86)"\Softouch\"EasyWorship 7"\EasyWorship.exe >nul 2>&1
 for /L %%N in (0 1 84 %processValue%) do (
   set /a showBar=%%N*barLength/processValue
   echo %TAB% Percent : 84 %% %TAB% Processing : Start EasyWorship                                                       !LF!%ESC%[2A%ESC%[!showBar!C%bar%
@@ -125,7 +127,7 @@ for /L %%N in (0 1 84 %processValue%) do (
 )
 
 :: Unpin WindowsTerminal Window to all Virtual Deskops using VirtualDesktop.exe (C++)
-gsudo VirtualDesktop11-24H2.exe /q upa:WindowsTerminal
+gsudo VirtualDesktop11-24H2.exe /q upa:WindowsTerminal >nul 2>&1
 for /L %%N in (0 1 100 %processValue%) do (
   set /a showBar=%%N*barLength/processValue
   echo %TAB% Percent : 100 %% %TAB% Processing : Unpin WindowsTerminal                                                  !LF!%ESC%[2A%ESC%[!showBar!C%bar%

@@ -2,6 +2,8 @@
 
 :: Date 2024-11-10-18.25.55
 
+title Church Presentation
+
 SETLOCAL EnableDelayedExpansion
 
 set /a "processValue=100"
@@ -45,7 +47,7 @@ Echo.
 for /l %%N in (0 1 !barLength!) do echo(!LF!%ESC%[2A%ESC%[%%NC%tbd%
 
 :: Pin WindowsTerminal Window to all Virtual Deskops using VirtualDesktop.exe (C++)
-VirtualDesktop11-24H2.exe /q pa:WindowsTerminal
+VirtualDesktop11-24H2.exe /q pa:WindowsTerminal >nul 2>&1
 for /L %%N in (0 1 12 %processValue%) do (
   set /a showBar=%%N*barLength/processValue
   echo %TAB% Percent : 12 %% %TAB% Processing : Pin WindowsTerminal                                                     !LF!%ESC%[2A%ESC%[!showBar!C%bar%
@@ -56,7 +58,7 @@ for /L %%N in (0 1 12 %processValue%) do (
 ::Powershell.exe -executionpolicy remotesigned -File  C:\Church-Presentation-Tools\Scripts\Powershell-Functions\Remove-alldesktops.ps1
 
 :: Close all Virtual Desktops using VirtualDesktop.exe (C++)
-VirtualDesktop11-24H2.exe /q /RemoveAll
+VirtualDesktop11-24H2.exe /q /RemoveAll >nul 2>&1
 for /L %%N in (0 1 24 %processValue%) do (
   set /a showBar=%%N*barLength/processValue
   echo %TAB% Percent : 24 %% %TAB% Processing : Close All Virtual Desktops                                              !LF!%ESC%[2A%ESC%[!showBar!C%bar%
@@ -70,7 +72,7 @@ for /L %%N in (0 1 24 %processValue%) do (
 ::START %SYSTEMDRIVE%\CHURCH-PRESENTATION-TOOLS\Scripts\"Windows Virtual Desktop Switcher"\VD.ahk\VD-examples-start-virutal-dekstops.ahk
 
 :: Create 2 Virtual Desktops & Start "Desktop Switcher Script" 
-START %SYSTEMDRIVE%\CHURCH-PRESENTATION-TOOLS\Scripts\Windows-Virtual-Desktop-Switcher\Desktop-Switcher.ahk\Windows-11\desktop_switcher.ahk
+START %SYSTEMDRIVE%\CHURCH-PRESENTATION-TOOLS\Scripts\Windows-Virtual-Desktop-Switcher\Desktop-Switcher.ahk\Windows-11\desktop_switcher.ahk >nul 2>&1
 for /L %%N in (0 1 36 %processValue%) do (
   set /a showBar=%%N*barLength/processValue
   echo %TAB% Percent : 36 %% %TAB% Processing : Create 2 Virtual Desktops, Open Switcher Script                        !LF!%ESC%[2A%ESC%[!showBar!C%bar%
@@ -81,7 +83,7 @@ for /L %%N in (0 1 36 %processValue%) do (
 ::Powershell.exe -executionpolicy remotesigned -File  C:\Church-Presentation-Tools\Scripts\Powershell-Functions\Move-desktop-2.ps1
 
 :: Move to Second Virtual Desktop using VirtualDesktop.exe (C++)
-VirtualDesktop11-24H2.exe /q "-Switch:Desktop 2"
+VirtualDesktop11-24H2.exe /q "-Switch:Desktop 2" >nul 2>&1
 for /L %%N in (0 1 48 %processValue%) do (
   set /a showBar=%%N*barLength/processValue
   echo %TAB% Percent : 48 %% %TAB% Processing : Move to Second Virtual Desktop                                          !LF!%ESC%[2A%ESC%[!showBar!C%bar%
@@ -99,7 +101,7 @@ for /L %%N in (0 1 60 %processValue%) do (
 )
 
 :: Start Unified Remote
-START /min C:\"Program Files (x86)"\"Unified Remote 3"\RemoteServerWin.exe
+START /min C:\"Program Files (x86)"\"Unified Remote 3"\RemoteServerWin.exe >nul 2>&1
 for /L %%N in (0 1 72 %processValue%) do (
   set /a showBar=%%N*barLength/processValue
   echo %TAB% Percent : 72 %% %TAB% Processing : Start Unified Remote                                                   !LF!%ESC%[2A%ESC%[!showBar!C%bar%
@@ -110,7 +112,7 @@ for /L %%N in (0 1 72 %processValue%) do (
 ::START WindowManager.exe -MINIMIZE 
 
 :: Start EasyWorship
-START /max C:\"Program Files (x86)"\Softouch\"EasyWorship 7"\EasyWorship.exe
+START /max C:\"Program Files (x86)"\Softouch\"EasyWorship 7"\EasyWorship.exe >nul 2>&1
 for /L %%N in (0 1 84 %processValue%) do (
   set /a showBar=%%N*barLength/processValue
   echo %TAB% Percent : 84 %% %TAB% Processing : Start EasyWorship                                                       !LF!%ESC%[2A%ESC%[!showBar!C%bar%
@@ -118,7 +120,7 @@ for /L %%N in (0 1 84 %processValue%) do (
 )
 
 :: Unpin WindowsTerminal Window to all Virtual Deskops using VirtualDesktop.exe (C++)
-VirtualDesktop11-24H2.exe /q upa:WindowsTerminal 
+VirtualDesktop11-24H2.exe /q upa:WindowsTerminal >nul 2>&1 
 for /L %%N in (0 1 100 %processValue%) do (
   set /a showBar=%%N*barLength/processValue
   echo %TAB% Percent : 100 %% %TAB% Processing : Unpin WindowsTerminal                                                  !LF!%ESC%[2A%ESC%[!showBar!C%bar%
