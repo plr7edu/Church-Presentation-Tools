@@ -91,7 +91,7 @@ for /L %%N in (0 1 48 %processValue%) do (
 :: Start KeyManager 
 ::START /min C:\"Program Files (x86)"\"ATNSOFT Key Manager"\keymanager.exe
 ::"C:\Program Files\SkipUAC\SkipUAC.exe" /ID ywh
-START C:\Church-Presentation-Tools\Scripts\AutoHotkey\KeyManager-Skip-UAC.exe
+schtasks /Run /TN "\SkipUAC\KeyManager-Minimized" >nul 2>&1
 for /L %%N in (0 1 60 %processValue%) do (
   set /a showBar=%%N*barLength/processValue
   echo %TAB% Percent : 60 %% %TAB% Processing : Start KeyManager                                                       !LF!%ESC%[2A%ESC%[!showBar!C%bar%

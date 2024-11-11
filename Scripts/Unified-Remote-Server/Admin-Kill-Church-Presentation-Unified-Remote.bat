@@ -1,5 +1,7 @@
 @echo off
 
+title Kill Church Presentation Unified Remote
+
 :: BatchGotAdmin
 :-------------------------------------
 REM  --> Check for permissions

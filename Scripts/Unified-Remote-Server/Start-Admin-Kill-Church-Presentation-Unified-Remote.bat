@@ -1,1 +1,1 @@
-"C:\Program Files\SkipUAC\SkipUAC.exe" /ID lzb
+schtasks /Run /TN "\SkipUAC\Admin-Kill-Church-Presentation-Unified-Remote" >nul 2>&1

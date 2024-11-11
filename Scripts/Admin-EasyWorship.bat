@@ -1,5 +1,7 @@
 @echo off
 
+title Admin-EasyWorship
+
 :: BatchGotAdmin
 :-------------------------------------
 REM  --> Check for permissions

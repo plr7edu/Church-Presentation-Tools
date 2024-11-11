@@ -1,5 +1,7 @@
 @echo off
 
+title Unified-Remote-IP
+
 :: Start Unified Remote
 START C:\"Program Files (x86)"\"Unified Remote 3"\RemoteServerWin.exe
 

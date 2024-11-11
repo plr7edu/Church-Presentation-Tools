@@ -1,5 +1,7 @@
 @echo off
 
+title Kill Church Presentation
+
 :: BatchGotAdmin
 :-------------------------------------
 REM  --> Check for permissions
@@ -23,8 +25,8 @@ if '%errorlevel%' NEQ '0' (
     pushd "%CD%"
     CD /D "%~dp0"
 :--------------------------------------
-
 @echo off
+
 if not "%1"=="max" start /max cmd /c %0 max & Exit /b
 chcp 65001 > nul
 color 0C
