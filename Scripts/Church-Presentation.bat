@@ -46,7 +46,7 @@ Echo.
 :: Create an empty bar
 for /l %%N in (0 1 !barLength!) do echo(!LF!%ESC%[2A%ESC%[%%NC%tbd%
 
-:: Pin WindowsTerminal Window to all Virtual Deskops using VirtualDesktop.exe (C++)
+:: Pin WindowsTerminal Window to all Virtual Deskops using VirtualDesktop.exe (C#)
 VirtualDesktop11-24H2.exe /q pa:WindowsTerminal >nul 2>&1
 for /L %%N in (0 1 12 %processValue%) do (
   set /a showBar=%%N*barLength/processValue
@@ -57,7 +57,7 @@ for /L %%N in (0 1 12 %processValue%) do (
 :: Close all active virtual desktop
 ::Powershell.exe -executionpolicy remotesigned -File  C:\Church-Presentation-Tools\Scripts\Powershell-Functions\Remove-alldesktops.ps1
 
-:: Close all Virtual Desktops using VirtualDesktop.exe (C++)
+:: Close all Virtual Desktops using VirtualDesktop.exe (C#)
 VirtualDesktop11-24H2.exe /q /RemoveAll >nul 2>&1
 for /L %%N in (0 1 24 %processValue%) do (
   set /a showBar=%%N*barLength/processValue
@@ -75,14 +75,14 @@ for /L %%N in (0 1 24 %processValue%) do (
 START %SYSTEMDRIVE%\CHURCH-PRESENTATION-TOOLS\Scripts\Windows-Virtual-Desktop-Switcher\Desktop-Switcher.ahk\Windows-11\desktop_switcher.ahk >nul 2>&1
 for /L %%N in (0 1 36 %processValue%) do (
   set /a showBar=%%N*barLength/processValue
-  echo %TAB% Percent : 36 %% %TAB% Processing : Create 2 Virtual Desktops, Open Switcher Script                        !LF!%ESC%[2A%ESC%[!showBar!C%bar%
+  echo %TAB% Percent : 36 %% %TAB% Processing : Create 2 Virtual Desktops, Open Switcher Script                         !LF!%ESC%[2A%ESC%[!showBar!C%bar%
   ping -4 -n 1 127.0.0.1 >nul
 )
 
 :: Move to Second Virtual Desktop using VirtualDesktop Plugin
 ::Powershell.exe -executionpolicy remotesigned -File  C:\Church-Presentation-Tools\Scripts\Powershell-Functions\Move-desktop-2.ps1
 
-:: Move to Second Virtual Desktop using VirtualDesktop.exe (C++)
+:: Move to Second Virtual Desktop using VirtualDesktop.exe (C#)
 VirtualDesktop11-24H2.exe /q "-Switch:Desktop 2" >nul 2>&1
 for /L %%N in (0 1 48 %processValue%) do (
   set /a showBar=%%N*barLength/processValue
@@ -96,7 +96,7 @@ for /L %%N in (0 1 48 %processValue%) do (
 schtasks /Run /TN "\SkipUAC\KeyManager-Minimized" >nul 2>&1
 for /L %%N in (0 1 60 %processValue%) do (
   set /a showBar=%%N*barLength/processValue
-  echo %TAB% Percent : 60 %% %TAB% Processing : Start KeyManager                                                       !LF!%ESC%[2A%ESC%[!showBar!C%bar%
+  echo %TAB% Percent : 60 %% %TAB% Processing : Start KeyManager                                                        !LF!%ESC%[2A%ESC%[!showBar!C%bar%
   ping -4 -n 1 127.0.0.1 >nul
 )
 
@@ -104,7 +104,7 @@ for /L %%N in (0 1 60 %processValue%) do (
 START /min C:\"Program Files (x86)"\"Unified Remote 3"\RemoteServerWin.exe >nul 2>&1
 for /L %%N in (0 1 72 %processValue%) do (
   set /a showBar=%%N*barLength/processValue
-  echo %TAB% Percent : 72 %% %TAB% Processing : Start Unified Remote                                                   !LF!%ESC%[2A%ESC%[!showBar!C%bar%
+  echo %TAB% Percent : 72 %% %TAB% Processing : Start Unified Remote                                                    !LF!%ESC%[2A%ESC%[!showBar!C%bar%
   ping -4 -n 1 127.0.0.1 >nul
 )
 
@@ -119,7 +119,7 @@ for /L %%N in (0 1 84 %processValue%) do (
   ping -4 -n 1 127.0.0.1 >nul
 )
 
-:: Unpin WindowsTerminal Window to all Virtual Deskops using VirtualDesktop.exe (C++)
+:: Unpin WindowsTerminal Window to all Virtual Deskops using VirtualDesktop.exe (C#)
 VirtualDesktop11-24H2.exe /q upa:WindowsTerminal >nul 2>&1 
 for /L %%N in (0 1 100 %processValue%) do (
   set /a showBar=%%N*barLength/processValue
