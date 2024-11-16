@@ -1,6 +1,11 @@
 @echo off
 
-:: Date 2024-11-03-14.27.38
+:: =========================================================== 
+:: Date   : 2024-11-15-18.42.00
+:: Author : plr 
+:: Script : Admin Church Presentation 
+:: Github : https://github.com/plr7edu/
+:: ===========================================================
 
 title Church Presentation - ON
 
@@ -46,7 +51,7 @@ for /l %%N in (0 1 !barLength!) do echo(!LF!%ESC%[2A%ESC%[%%NC%tbd%
 START %SYSTEMDRIVE%\CHURCH-PRESENTATION-TOOLS\Tools\"Sound Volume View"\SoundVolumeView.exe /Mute Speaker >nul 2>&1
 for /L %%N in (0 1 25 %processValue%) do (
   set /a showBar=%%N*barLength/processValue
-  echo %TAB% Percent : 25 %% %TAB% Processing : Mute Windows Sound                                                    !LF!%ESC%[2A%ESC%[!showBar!C%bar%
+  echo %TAB% Percent : 25 %% %TAB% Processing : Mute Windows Sound                                                      !LF!%ESC%[2A%ESC%[!showBar!C%bar%
   ping -4 -n 1 127.0.0.1 >nul
 )
 
@@ -54,16 +59,16 @@ for /L %%N in (0 1 25 %processValue%) do (
 powershell (Get-WmiObject -Namespace root/WMI -Class WmiMonitorBrightnessMethods).WmiSetBrightness(1,100) >nul 2>&1
 for /L %%N in (0 1 50 %processValue%) do (
   set /a showBar=%%N*barLength/processValue
-  echo %TAB% Percent : 50 %% %TAB% Processing : Set Maximum Brightness                                                !LF!%ESC%[2A%ESC%[!showBar!C%bar%
-  ping -4 -n 1 127.0.0.1 >nul
+  echo %TAB% Percent : 50 %% %TAB% Processing : Set Maximum Brightness                                                  !LF!%ESC%[2A%ESC%[!showBar!C%bar%
+  @REM ping -4 -n 1 127.0.0.1 >nul
 )
 
 :: Set Live Wallpaper (Black Wallpaper)
 Powershell.exe -executionpolicy remotesigned -File  C:\Church-Presentation-Tools\Scripts\Powershell-Functions\Live-wallpaper.ps1 >nul 2>&1
 for /L %%N in (0 1 75 %processValue%) do (
   set /a showBar=%%N*barLength/processValue
-  echo %TAB% Percent : 75 %% %TAB% Processing : Set Live Black Wallpaper                                              !LF!%ESC%[2A%ESC%[!showBar!C%bar%
-  ping -4 -n 1 127.0.0.1 >nul
+  echo %TAB% Percent : 75 %% %TAB% Processing : Set Live Black Wallpaper                                                !LF!%ESC%[2A%ESC%[!showBar!C%bar%
+  @REM ping -4 -n 1 127.0.0.1 >nul
 )
 
 :: Enable Auto Hide Taskbar
@@ -71,8 +76,8 @@ for /L %%N in (0 1 75 %processValue%) do (
 Start C:\Church-Presentation-Tools\Scripts\Src\TaskbarToggle.exe >nul 2>&1
 for /L %%N in (0 1 100 %processValue%) do (
   set /a showBar=%%N*barLength/processValue
-  echo %TAB% Percent : 100 %% %TAB% Processing : Enable Auto Hide Taskbar                                            !LF!%ESC%[2A%ESC%[!showBar!C%bar%
-  ping -4 -n 1 127.0.0.1 >nul
+  echo %TAB% Percent : 100 %% %TAB% Processing : Enable Auto Hide Taskbar                                                !LF!%ESC%[2A%ESC%[!showBar!C%bar%
+  @REM ping -4 -n 1 127.0.0.1 >nul
 )
 
 ::pause

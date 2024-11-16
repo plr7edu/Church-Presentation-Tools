@@ -1,5 +1,12 @@
 @echo off
 
+:: =========================================================== 
+:: Date   : 2024-11-15-18.42.00
+:: Author : plr 
+:: Script : Admin Church Presentation 
+:: Github : https://github.com/plr7edu/
+:: ===========================================================
+
 title Admin-Kill-Easy
 
 :: BatchGotAdmin

@@ -1,6 +1,11 @@
 @echo off
 
-:: Date 2024-11-10-18.25.55
+:: =========================================================== 
+:: Date   : 2024-11-15-18.42.00
+:: Author : plr 
+:: Script : Church Presentation 
+:: Github : https://github.com/plr7edu/
+:: ===========================================================
 
 title Church Presentation
 
