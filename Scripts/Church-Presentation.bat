@@ -129,7 +129,7 @@ VirtualDesktop11-24H2.exe /q upa:WindowsTerminal >nul 2>&1
 for /L %%N in (0 1 100 %processValue%) do (
   set /a showBar=%%N*barLength/processValue
   echo %TAB% Percent : 100 %% %TAB% Processing : Unpin WindowsTerminal                                                  !LF!%ESC%[2A%ESC%[!showBar!C%bar%
-  ping -4 -n 1 127.0.0.1 >nul
+  @REM ping -4 -n 1 127.0.0.1 >nul
 )
 
 ::pause
