@@ -132,6 +132,17 @@ f4::Exitapp
 
 ; Select Application Windows ---------------------------------------------------------------------------------------------------------------
 
+;Powerpoint Quick Select
+F8::
+Send {Esc}
+Send, ^{Tab}
+Send, +!{F5}
+Return
+
+;Open Powerpoint in Presenter View Mode
+F9::
+Send, +!{F5}
+Return
 
 ; Open Powerpoint Live Edit Window
 Numpad6::

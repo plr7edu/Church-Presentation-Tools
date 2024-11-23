@@ -116,7 +116,6 @@ Numpad3::switchDesktopByNumber(3)
 
 
 ; Pause / Resume Autohotkey Script
-;Shift &  Up::
 Numpad9::
 Suspend ;Suspend Hotkeys off/on
 Pause,, 1 ;Pause Script off/on
@@ -128,6 +127,17 @@ f4::Exitapp
 
 ; Select Application Windows ---------------------------------------------------------------------------------------------------------------
 
+;Powerpoint Quick Select
+F8::
+Send {Esc}
+Send, ^{Tab}
+Send, +!{F5}
+Return
+
+;Open Powerpoint in Presenter View Mode
+F9::
+Send, +!{F5}
+Return
 
 ; Open Powerpoint Live Edit Window
 Numpad6::

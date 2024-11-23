@@ -62,3 +62,15 @@ Numpad7:: MouseClick,WheelUp,,,2,0,D,R
 ; Mouse Wheel Down 2 %
 Numpad8:: MouseClick,WheelDown,,,2,0,D,R
 
+; Autohotkey Script ------------------------------------------------------------------------------------------------------------------------
+
+
+; Pause / Resume Autohotkey Script
+Numpad9::
+Suspend ;Suspend Hotkeys off/on
+Pause,, 1 ;Pause Script off/on
+Return
+
+; Exit Script
+f4::Exitapp
+
