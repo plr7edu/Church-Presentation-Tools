@@ -135,6 +135,7 @@ f4::Exitapp
 ;Powerpoint Quick Select
 F8::
 Send {Esc}
+Sleep, 1
 Send, ^{Tab}
 Send, +!{F5}
 Return
