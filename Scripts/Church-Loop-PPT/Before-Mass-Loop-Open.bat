@@ -31,6 +31,6 @@
 ::
 ::
 ::978f952a14a936cc963da21a135fa983
-start powerpnt.exe "%SYSTEMDRIVE%\Church-Presentation-Tools\Scripts\Church-Loop-PPT\Before-Mass-Loop.pptx"
+start powerpnt.exe "%HOMEPATH%\Documents\Before-Mass-Loop\Before-Mass-Loop.pptx"
 
 
