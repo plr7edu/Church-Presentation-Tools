@@ -55,8 +55,9 @@ Echo.
 :: Kill Key Manager 
 taskkill /F /IM keymanager.exe /T > nul
 
-:: Kill "Autohotkey Scripts" 
-taskkill /F /IM AutoHotkeyU64.exe /T > nul
+:: Kill "Windows-Virtual-Desktop-Switcher" Ahk Script
+::taskkill /F /IM AutoHotkeyU64.exe /T > nul
+START C:\Church-Presentation-Tools\Scripts\AutoHotkey\Kill-Windows-Virtual-Desktop-Switcher-Script.exe > nul
 
 :: Kill EasyWorship7 & EasyWorshop7 Helper
 taskkill /F /IM EasyWorship.exe /T > nul
