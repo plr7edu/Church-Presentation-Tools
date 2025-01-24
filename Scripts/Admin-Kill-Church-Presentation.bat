@@ -1,7 +1,7 @@
 @echo off
 
 :: =========================================================== 
-:: Date   : 2024-11-15-18.42.00
+:: Date   : 2025-01-24-11.00.38
 :: Author : plr 
 :: Script : Admin Kill Church Presentation 
 :: Github : https://github.com/plr7edu/
@@ -73,7 +73,7 @@ taskkill /F /IM RemoteServerWin.exe /T > nul
 START %SYSTEMDRIVE%\CHURCH-PRESENTATION-TOOLS\Scripts\Windows-Virtual-Desktop-Switcher\VD.ahk\VD-examples-remove-virutal-dekstops.ahk
 
 :: Kill WindowManager
-::taskkill /F /IM WindowManager.exe /T > nul
+taskkill /F /IM WindowManager.exe /T > nul
 
 :: Kill Powerpoint Presentation
 taskkill /F /IM POWERPNT.exe /T > nul

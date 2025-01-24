@@ -1,16 +1,22 @@
-1 - Entrance Hymn
-2 - Offertory Hymn
-3 - Communion Hymn - 1
-3 - Communion Hymn - 2
-4 - Final Hymn
+1 - Procession
+2 - Blessing of The Statue
+3 - Entrance Hymn
+4 - Offertory Hymn
+5 - The Mystery of Faith
+6 - Communion Hymn - 1
+6 - Communion Hymn - 2
+7 - Final Hymn
 
-1 - ඇතුලූවීමේ ගීය
-2 - පඬුරු පිදීම 
-3 - අනුභවය  - 1
-3 - අනුභවය  - 2
-4 - අවසාන ගීය
+1 - පෙරහැර
+2 - ප්‍රතිමා අශිර්වාදය
+3 - ඇතුලූවීමේ ගීය
+4 - පඬුරු පිදීම 
+5 - අභිරහස් ප්‍රකාශ කිරීම
+6 - අනුභවය  - 1
+6 - අනුභවය  - 2
+7 - අවසාන ගීය
 
 
-සමිදාණන් වහන්සේගේ බෞතිස්ම මංගල්‍යය [තෙවන වසර] 
+2 වන නුවානය  (ජනවාරි 24 - සිකුරාදා)
 
   

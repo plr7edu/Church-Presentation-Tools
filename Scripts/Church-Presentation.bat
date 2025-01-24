@@ -1,7 +1,7 @@
 @echo off
 
 :: =========================================================== 
-:: Date   : 2024-11-15-18.42.00
+:: Date   : 2025-01-24-11.00.38
 :: Author : plr 
 :: Script : Church Presentation 
 :: Github : https://github.com/plr7edu/
@@ -113,12 +113,18 @@ for /L %%N in (0 1 72 %processValue%) do (
   ping -4 -n 1 127.0.0.1 >nul
 )
 
-:: Start WindowsManager
+:: Start WindowsManager with "VD1-Powerpoint" Profile
 ::START WindowManager.exe -MINIMIZE 
+START C:\Church-Presentation-Tools\Scripts\AutoHotkey\WindowManager-Minimized.exe >nul 2>&1 
+for /L %%N in (0 1 84 %processValue%) do (
+  set /a showBar=%%N*barLength/processValue
+  echo %TAB% Percent : 84 %% %TAB% Processing : Start WindowManger VD1-Powerpoint                                       !LF!%ESC%[2A%ESC%[!showBar!C%bar%
+  ping -4 -n 1 127.0.0.1 >nul
+)
 
 :: Start EasyWorship
 START /max C:\"Program Files (x86)"\Softouch\"EasyWorship 7"\EasyWorship.exe >nul 2>&1
-for /L %%N in (0 1 84 %processValue%) do (
+for /L %%N in (0 1 94 %processValue%) do (
   set /a showBar=%%N*barLength/processValue
   echo %TAB% Percent : 84 %% %TAB% Processing : Start EasyWorship                                                       !LF!%ESC%[2A%ESC%[!showBar!C%bar%
   ping -4 -n 1 127.0.0.1 >nul

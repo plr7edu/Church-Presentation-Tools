@@ -1,5 +1,6 @@
 | ප්‍රධාන දිව්‍ය පුජාවන් වල ගීතිකා වර්ග පෙළ ගැස්ම | Hymn Categories For Main Holy Masses |
 | :----------------------------------- | ------------------------------------ |
+| පෙරහ                                 | Procession                           |
 | ප්‍රතිමා අශිර්වාදය                        | Blessing of The Statue               |
 | ඇතුලුවීමේ ගීය                            | Enternce Hymn                        |
 | මෙනෙහි කිරිමේ ගීය                        | Penitential Hymn                     |
