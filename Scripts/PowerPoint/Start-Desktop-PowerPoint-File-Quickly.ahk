@@ -1,4 +1,5 @@
 ﻿#Persistent
+#SingleInstance, Force
 SetTitleMatchMode, 2
 
 ; Function to check for .pptx files on the desktop
@@ -14,7 +15,7 @@ CheckPPTXFiles()
     if (pptxCount == 1)
     {
         Run, "%pptxFile%"
-        Sleep, 5000
+        Sleep, 8000
         Send, +!{F5}
         Sleep, 5000
         ExitApp
@@ -24,7 +25,7 @@ CheckPPTXFiles()
     {
         ; Create a GUI to display the message
         Gui, Font, s16, Segoe UI  ; Set font to Segoe UI, size 16
-        Gui, Add, Text, Center, The desktop folder contains multiple PowerPoint files.`nOpen the correct PowerPoint manually.
+        Gui, Add, Text, Center, The desktop folder contains multiple PowerPoint files.`nOpen the correct PowerPoint file manually.
         Gui, Show, Center
     }
 }
@@ -33,8 +34,9 @@ CheckPPTXFiles()
 SetTimer, CheckPPTXFiles, -1
 return
 
-; Close the GUI when the OK button is pressed
-ButtonOK:
+; Close the GUI when the window is closed or the Escape key is pressed
 GuiClose:
+GuiEscape:
 Gui, Destroy
+ExitApp
 return

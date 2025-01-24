@@ -5,6 +5,16 @@
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory
 SendMode Input  ; Recommended for new scripts due to its superior speed and reliability
 
+;==== Set Icon In Taskbar  =============================================
+
+; Define the path to your icon
+iconPath := A_ScriptDir "\ProPresenter.ico"
+
+; Set the icon for the script Menu, Tray, Icon,
+Menu, Tray, Icon, %iconPath%
+
+;=======================================================================
+
 ; Globals
 DesktopCount := 2        ; Windows starts with 2 desktops at boot
 CurrentDesktop := 1      ; Desktop count is 1-indexed (Microsoft numbers them this way)

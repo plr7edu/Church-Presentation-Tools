@@ -1,4 +1,5 @@
 ﻿#Persistent
+#SingleInstance, Force
 SetTitleMatchMode, 2
 
 ; Function to check for .ewsx files on the desktop
@@ -30,8 +31,9 @@ CheckEWSXFiles()
 SetTimer, CheckEWSXFiles, -1
 return
 
-; Close the GUI when the OK button is pressed
-ButtonOK:
+; Close the GUI when the window is closed or the Escape key is pressed
 GuiClose:
+GuiEscape:
 Gui, Destroy
+ExitApp
 return

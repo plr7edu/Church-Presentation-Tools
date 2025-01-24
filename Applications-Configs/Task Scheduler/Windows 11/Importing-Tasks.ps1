@@ -9,3 +9,6 @@ Register-ScheduledTask -TaskName "KeyManager-Minimized" -Xml (Get-Content -Path 
 $xmlFilePath = Join-Path -Path $currentScriptPath -ChildPath "Admin-Kill-Church-Presentation-Unified-Remote.xml"
 Register-ScheduledTask -TaskName "Admin-Kill-Church-Presentation-Unified-Remote" -Xml (Get-Content -Path $xmlFilePath | Out-String) -TaskPath "\SkipUAC\"
 
+# 
+$xmlFilePath = Join-Path -Path $currentScriptPath -ChildPath "Admin-WindowManager-Minimized-VD1-Powerpoint.xml"
+Register-ScheduledTask -TaskName "Admin-WindowManager-Minimized-VD1-Powerpoint" -Xml (Get-Content -Path $xmlFilePath | Out-String) -TaskPath "\SkipUAC\"
