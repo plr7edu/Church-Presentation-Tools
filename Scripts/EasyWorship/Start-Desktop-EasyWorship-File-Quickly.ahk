@@ -2,38 +2,41 @@
 #SingleInstance, Force
 SetTitleMatchMode, 2
 
-; Function to check for .ewsx files on the desktop
-CheckEWSXFiles()
+; Define global variables
+global latestFile, latestTime
+
+; Function to check for .ewsx files on the desktop and open the latest one by Date Created
+CheckLatestEWSXFile()
 {
-    ewsxCount := 0
+    latestFile := ""
+    latestTime := 0
     Loop, %A_Desktop%\*.ewsx, 0  ; Only search top-level files
     {
-        ewsxCount++
-        ewsxFile := A_LoopFileFullPath
+        ; Get the Date Created time of the current file
+        FileGetTime, createdTime, %A_LoopFileFullPath%, C
+
+        ; Check if this file has a later Date Created time than the current latest
+        if (createdTime > latestTime)
+        {
+            latestTime := createdTime
+            latestFile := A_LoopFileFullPath
+        }
     }
 
-    if (ewsxCount == 1)
+    if (latestFile != "")
     {
-        Run, "%ewsxFile%"
+        Run, "%latestFile%"
+        Sleep, 5000
         ExitApp
-        return
-    }
-    else if (ewsxCount > 1)
-    {
-        ; Create a GUI to display the message
-        Gui, Font, s16, Segoe UI  ; Set font to Segoe UI, size 16
-        Gui, Add, Text, Center, The desktop folder contains multiple EasyWorship files.`nOpen the correct EasyWorship file manually.
-        Gui, Show, Center
     }
 }
 
 ; Set a timer to run the function once
-SetTimer, CheckEWSXFiles, -1
+SetTimer, CheckLatestEWSXFile, -1
 return
 
-; Close the GUI when the window is closed or the Escape key is pressed
+; Close the script when the timer is done
 GuiClose:
 GuiEscape:
-Gui, Destroy
 ExitApp
 return
