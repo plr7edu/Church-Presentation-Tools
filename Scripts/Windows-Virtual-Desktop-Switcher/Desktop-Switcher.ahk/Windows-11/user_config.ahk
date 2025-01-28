@@ -85,7 +85,6 @@ Numpad0::
 }
 return
 
-
 ; Select Virtual Desktop -------------------------------------------------------------------------------------------------------------------
 
 ; Select Virutal Desktop 1 & Activate and Maximize PowerPoint Presenter View Window & Double click on text called "Next" on that Window
