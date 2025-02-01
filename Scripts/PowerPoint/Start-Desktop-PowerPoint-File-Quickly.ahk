@@ -35,9 +35,9 @@ CheckLatestPPTXFile()
         Gui, Show, Center AutoSize
 
         ; Countdown progress bar
-        Loop, 9
+        Loop, 15
         {
-            GuiControl,, Cdown, % 100 - (100 / 9) * A_Index
+            GuiControl,, Cdown, % 100 - (100 / 15) * A_Index
             Sleep, 1000
         }
         Gui, Destroy

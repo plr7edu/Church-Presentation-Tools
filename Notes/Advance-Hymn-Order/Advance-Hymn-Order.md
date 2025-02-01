@@ -3,6 +3,7 @@
 | පෙරහැර                               | Procession                           |
 | ප්‍රතිමා අශිර්වාදය                        | Blessing of The Statue               |
 | ඇතුලුවීමේ ගීය                            | Enternce Hymn                        |
+| පොල්තෙල් පහන දැල්වීම                     | Lighting of the Oil Lamp             |
 | මෙනෙහි කිරිමේ ගීය                        | Penitential Hymn                     |
 | කරුණාව අයදීම                           | Kyrie                                |
 | සුරදුුත ගීය                              | Gloria                               |
@@ -37,13 +38,13 @@
 
 
 
-| සන්ධ්‍යා මෙහෙය                      | Vespers                             |
-| -------------------------------- | ----------------------------------- |
-| පලමු තෙහෙලි ගීය                     | First Psalm                         |
-| දෙවන තෙහෙලි ගීය                    | Second Psalm                        |
-| තෙවන තෙහෙලි ගීය                    | Third Psalm                         |
-| මරිමව් උදාන ගීය                     | Canticle of the Blessed Virgin Mary |
-| දිව්‍ය සත්ප්‍රසාධ වහන්සේ වැඩම කරවීම      | Rite of Eucharistic Exposition      |
-| දිව්‍ය සත්ප්‍රසාධ අශිර්වාදය              | Rite of Eucharistic Benediction     |
-| දිව්‍ය සත්ප්‍රසාධ වහන්සේ නැවත තැන්පත් කීරීම | Rite of Eucharistic Reposition      |
+| සන්ධ්‍යා මෙහෙය                      | Vespers                                                      |
+| -------------------------------- | ------------------------------------------------------------ |
+| පලමු තෙහෙලි ගීය                     | First Psalm                                                  |
+| දෙවන තෙහෙලි ගීය                    | Second Psalm                                                 |
+| තෙවන තෙහෙලි ගීය                    | Third Psalm                                                  |
+| මරිමව් උදාන ගීය                     | Canticle of the Blessed Virgin Mary                          |
+| දිව්‍ය සත්ප්‍රසාධ වහන්සේ වැඩම කරවීම      | Rite of Eucharistic Exposition , Exposition of the Blessed Sacrament |
+| දිව්‍ය සත්ප්‍රසාධ ආශිර්වාදය              | Rite of Eucharistic Benediction , Blessing by the Blessed Sacrament |
+| දිව්‍ය සත්ප්‍රසාධ වහන්සේ නැවත තැන්පත් කීරීම | Rite of Eucharistic Reposition ,  Deposition of the Blessed Sacrament |
 
