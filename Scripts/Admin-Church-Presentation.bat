@@ -102,6 +102,9 @@ for /L %%N in (0 1 48 %processValue%) do (
   ping -4 -n 1 127.0.0.1 >nul
 )
 
+:: Start Second Virtual Desktop Indicator (Desktop 2)
+START C:\Church-Presentation-Tools\Scripts\AutoHotkey\2-Virtual-Desktop-Indicator.exe >nul 2>&1 
+
 :: Start KeyManager 
 ::START /min C:\"Program Files (x86)"\"ATNSOFT Key Manager"\keymanager.exe
 ::gsudo "C:\Program Files\SkipUAC\SkipUAC.exe" /ID ywh
