@@ -33,3 +33,8 @@ if __name__ == "__main__":
     input_files = [path + file for file in input_files]
     
     merge_docs_with_page_breaks(output_file, *input_files)
+
+    
+    # Close the script
+    sys.exit()
+
