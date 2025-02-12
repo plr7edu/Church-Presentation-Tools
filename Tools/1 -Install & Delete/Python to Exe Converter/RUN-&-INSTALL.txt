@@ -1,0 +1,7 @@
+pip install auto_py_to_exe-2.45.1-py2.py3-none-any.whl
+auto-py-to-exe
+
+
+install Python3
+pip install docxcompose
+pip install auto-py-to-exe

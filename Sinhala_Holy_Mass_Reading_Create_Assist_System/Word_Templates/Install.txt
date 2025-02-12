@@ -1,3 +1,0 @@
-install Python3
-pip install docxcompose
-pip install auto-py-to-exe
