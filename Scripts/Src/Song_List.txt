@@ -1,0 +1,1144 @@
+﻿1 Ew Apa Thosa - එව් අප තොස			
+2 Ahasa Obe Mahime - අහස ඔබේ මහිමේ			
+3 Gee Hada Nagamin - ගී හඬ නඟමින්			
+4 Gayaw Gayaw - ගයව් ගයව්			
+5 Yamu Yamu Yamu Api - යමු යමු යමු අපි			
+6 Dewidhu Pudhata - දෙවිඳු පුදට			
+7 Jaya Jaya Jaya Hada - ජය ජය ජය හඬ			
+8 Ahasa Polowa - අහස පොළොව			
+9 Siyal Janayene - සියල් ජනයනේ			
+10 Apawa Mawaa Samadha Rakina - අපව මවා සැමදා රකින			
+11 Pinibidhu Saelenaa - පිනිබිදු සැලෙනා			
+12 Bindhu Bindhu Siri Waehi Podhi - බිංදු බිංදු සිරි වැහි පොදි			
+13 Kodi Wal Nanwaa  - කොඩි වැල් නංවා			
+14 Rasa Geetha Gayaalaa - රස ගීත ගයාලා			
+15 Podi Podi Kurullanea - පොඩි පොඩි කුරුල්ලනේ			
+16 Dewidhuni Emi Mama Pudhasunataa - දෙවිඳුනි ඵමි මම පුදසුනටා			
+17 Upadhinawaa Hoda Dhawasak - උපදිනවා හොඳ දවසක්			
+18 Kurulu Ranchu - කුරුළු රංචු			
+19 Odhin Waedii - ඔදින් වැඩී			
+20 Mangala Siriyen - මංගල සිරියෙන්			
+21 Hiru Paayana Wita - හිරු පායන විට			
+22 Gayamu Wayamu - ගයමු වයමු			
+23 Pudhasuna Wethata Aedhii - පුදසුන වෙතට ඇදී			
+24 Nil Guwane -  නිල් ගුවනේ			
+25 Arunalu Naegena Welaawe - අරුනළු නැගෙන වෙලාවේ			
+26 Sunila Diyea - සුනිල දියේ			
+27 Aluth Irak Paayalaa - අළුත් ඉරක් පායලා			
+28 Dahasak Sithuwili - දහසක් සිතුවිලි			
+29 Hiru Naega Ena Wita - හිරු නැඟ ඵන විට			
+30 Eka Sithin - ඵක සිතින්			
+31 Dewidhun Guna Karunaa - දෙවිඳුන් ගුණ කරුණා			
+32 Dewi Samidhun Hata Pindhewa -  දෙවි සමිඳුන් හට පින්දෙව			
+33 Wiman Doratu - විමන් දොරටු			
+34 Lowa Mudhanaa Lesa - ලොව මුදනා ලෙස			
+35 Pemaethi Rajidhun - පෙමැති රජිදුන්			
+36 Samidun Pudanna - සමිඳුන් පුදන්න			
+37 Adahami Mage Samidhuni - අදහමි මගේ සමිඳුනී			
+38 Obai Apata - ඔබයි අපට			
+39 Maa Rakawaranaya - මා රැකවරනය			
+40 Maa Rakawaranaya Samidha Wee - මා රැකවරනය සමිඳා වේ			
+41 Maa Rakawarane - මා රකවරනණේ			
+42 Diyatha Soya Dhuwa Yami - දියත සොයා දුවයමි			
+43 Mage Hada Samidhun  - මගේ හද සමිඳුන්			
+44 Samidhun Wetha Mage - සමිඳුන් වෙත මගේ			
+45 Ape Gatha Sitha - අපේ ගත සිත			
+46 Daya Guna Kadhe - දයා ගුණ කඳේ			
+47 Yaha Maga Yana Sama  - යහ මඟ යන සැම			
+48 Dewidhuni Apa Wethe - දෙවිදුනී අප වෙතේ			
+49 Samidhuni Obe Pema - සමිඳුනි ඔබේ පෙම			
+50 Dewidhu Wadhina - දෙවිඳු වඳින			
+51 Eliya Oba Mage - ඵළිය ඔබ මගේ			
+51 Eliya Oba Mage - ඵළිය ඔබ මගේ (Senoir Choir Feast)			
+52 Samide Oba Obe Desata - සමිඳුනි ඔබ ඔබේ දෙසට			
+53 Karunabara Apa Piya Dewidhe - කරුණාබර අප පිය දෙවිඳේ			
+54 Aduru Mage Sithe - අඳුරු මගේ සිතේ			
+55 Aluthma Geeyen - අලුත්ම ගීයෙන්			
+56 Thegasa Mahimaya - තේජස මහිමය			
+57 Enna Yanna Ma Ha - ඵන්න යන්න මා හා			
+58 Hembala Jerusalame - හෙම්බල ඡේරුසලමේ			
+59 Wethi Wethi Himipano - වෙති වෙති හිමිපාණෝ			
+60 Sura Sen Bala Pirise - සුර සෙන් බළ පිරිසේ			
+61 Maha Karuna - මහා කරුණා			
+62 Harawa Kan Obage - හරවා කන් ඔබගේ			
+63 Salena Hadhin - සැලෙන හදින්			
+64 Saptha Sayure - සප්ත සයුරේ			
+65 Dewa Wachanaye - දේව වචනයේ			
+66 Premaya We Uthum - ප්‍රේමය වේ උතුම්			
+67 Adahami Vachane Obe - අදහමි වචනේ ඔබේ			
+68 Dewa Wadhana - දේව වදන			
+69 Wiliyata Pathwanu - විළියට පත්වනු			
+70 Hada Pathlen - හද පත්ලෙන් මගේ			
+71 Penwanu Penwanu - පෙන්වනු පෙන්වනු			
+72 Samidhun Janathawe - සමිඳුන් ජනතාවේ			
+73 Arakinu Maa Arakinu - අරකිනු මා අරකිනු			
+74 Yuddheta Ath Mage - යුද්දෙට අත් මගෙ			
+75 Hiru Uda Wala - හිරැ උදා වෙලා			
+76 Desata Kadukare - දෙසට කඳුකරේ			
+77 Kankalu Rasa Bara - කන්කළු රස බර			
+78 Wehesennno - වෙහෙසෙන්නෝ			
+79 Ma Piyumak Lesa - මා පියුමක් ලෙස			
+80 Ma Sadha Diwi Pithuwe - මා සඳහා දිවි පිදුවේ			
+81 Dewa Wachanayata - දේව වචනයට			
+82 Apage Geewitha Rahasai - අපගේ ඡිවිත රහසයි			
+83 Athin Asena - ඈතින් ඇසෙනා			
+84 Dewa Wadhanata Thuti Pasasum Dew - දේව වදනට තුති පැසසුම් දෙව්			
+85 Pasasa Pasasa Ath Bawe - පසස පසස අත් බවේ			
+86 Daham Wadumata - දහම් වැඩුමට			
+87 Piyanani Mawetha Adharen - පියාණනී මවෙත ආදරෙන්			
+88 Ahasa Wethata - අහස වෙතට			
+89 Oba Obata Menma - ඔබ ඔබ‌ට මෙන්ම			
+90 Sihiwenawa Sihiwenawa - සිහිවෙනවා සිහිවෙනවා			
+91 Asun Ara - අසුන් අරා			
+92 Pasasa Pasasa Samidhanan - පසස පසස සමිඳාණන්			
+93 Samidhuni Oba Mata - සමිඳුනි ඔබ මට			
+94 Suwadha Didi Pipuna Udhe - සුවඳ දිදී පිපුණ උදේ			
+95 Amathaka Nowe - අමතක නොවේ			
+96 Dewidunge Wachane - දෙවිඳන්ගේ වචනේ			
+97 Wataha Ganna - වටහා ගන්න			
+98 Dewa Wachane - දේව වචනෙ			
+99 Dewidhunge Hada - දෙවිදුන්ගේ හඩ			
+100 Jewithe Mata Dunna - ජිවිතේ මට දුන්නු			
+101 Dewidhuge Mahime - දෙවිඳුගේ මහිමේ			
+102 Ananthaye Dewa Wadhaneni - අනන්තයේ දේව වදනෙනී			
+103 Dewi Piyanani - දෙවි පියාණනී			
+104 Me Apa Pudhana Paduru - මෙ අප පුදන පඬුරු			
+105 Siyalu Balathi Dewidune - සියලු බලැති දෙවිඳුනේ			
+106 Dewidhuni Oba Hata Wadhinu Sadha - දෙවිඳුනි ඔබ හට වඳිනු සදා			
+107 Kalwariye Lo Paw Nisa - කල්වාරියේ ලෝ පව් නිසා			
+108 Baara Ganna Samidhune - බාර ගන්න සමිදුනේ			
+109 Pudhamu Paduru - පුදමු පඬුරු			
+110 Thuthi We Dewpiye - තුනිවේ දෙව්පියේ			
+111 Siyalu Balathi Dewidhu Samaga - සියලු බලැති දෙවිඳු සමඟ			
+112 Piligena Me Pupe - පිළිගෙන මේ පුපේ			
+113 Apa Sathu Samadhe - අප සතු සැමදේ			
+114 Mage Adara Hama Hagumama - මගේ ආදර හැම හැඟුමම			
+115 Oba Samagin Yaga Wanna - ඔබ සමඟින් යාග වන්න			
+116 Apage Padura We - අපගේ පඬුර වේ			
+117 Sara Kethe - සාර කෙතේ			
+118 Mal Suwadhe - මල් සුවඳේ			
+119 Monawata Oba Mata Paduru Genawe - මොනවට ඔබ මට පඬුරු ගෙනාවේ			
+120 Mage Geewithe - මගේ ඡීවි‌තේ			
+121 Sadathane Sadanane - සදාතණේ සදාණනේ			
+122 Pudhasune Pidhena Me - පුදසුනේ පිදෙන මේ			
+123 Lowa Mawu Dewidhuta - ලොව මැවු දෙවිඳුට			
+124 Pawata Namunu - පවට නැමුනු			
+125 Pemin Pidhuna Obe Diwiya - පෙමින් පිදුන ඔබේ දිවිය			
+126 Jesuni Mage Diwiya - ඡේසුනි මගේ දිවිය			
+127 Ratharan Muthu - රත්තරන් මුතු			
+128 Suwadha Sapiri - සුවඳ සපිරි			
+129 Pupa Lesata - පුප ලෙසට			
+130 Suwadha Mal Tiya - සුවඳ මල් තියා			
+131 Mal Pahan Puda - මල් පහන් පුදා			
+132 Detha Wehesa Helu Dahadiya - දෑත වෙහෙසා හෙලු දහඩිය			
+133 Me Yagika Pidhume - මේ යාගීක පිදුමේ			
+134 Hada Bati Thuthi Mal - හද බැති තුතී මල්			
+135 Hamathe - හාමතේ			
+136 Obata Pudami - ඔබට පුදමි			
+137 Mata Ashai - මට ආසයි			
+138 Laba Obe Arayum Samide - ලබා ඔබේ ඇරයුම් සමි‌ඳේ			
+139 Pupaya Mididiya - පුපය මිදිදිය			
+140 Ragenemi Ma Sathu - රැගෙනෙමි මා සතු			
+141 Pathum Lowak - පැතුම් ලොවක්			
+142 Saman Pichcha - සමන් පිච්ච			
+143 Punchi Apen - පුංචි අපෙන්			
+144 Ahadara Dewi Piye - ආදර දෙවි පියේ			
+145 Hiru Eliye Popiyena Mal - හිරැ ඵළියේ පොපියන මල්			
+146 Thel Mal Suwadha Sadhun - තෙල් මල් සුවඳ සඳුන්			
+147 Apage Shramayai - අපගේ ශ්‍රමයයි			
+148 Malaka Suwadha - මලක සුවඳ			
+149 Samidhun Wethata Ya - සමිඳුන් වෙතට යා			
+150 Bara Ganna Dewi Piyanani - බාර ගන්න දෙවි පියාණනි			
+151 Yamu Dewidhuta - යමු දෙවිඳුටා			
+152 Mage Mahansiye Palai - මගේ මහන්සියේ පලයි			
+153 Monawa Genennada - මොනවා ගෙනෙන්නද			
+154 Samidhu Pudhata Paduru Ragena - සමිඳු පුදට පඬුරු රැගෙන			
+155 Yaga Padura We - යාග පඬුර වේ			
+156 Pidhe Piye - පිදේ පියේ			
+157 Sadukara Dii - සාදුකාර දී			
+158 Suwadha Saman - සුවඳ සමන්			
+159 Samidhuni Obatama Aepa Kaepa Wee - සමිඳුනි ඔබටම ඇප කැප වී			
+160 Duwana Lesata Pawase Peli Peli - දුවන ලෙසට පවසේ පෙළි පෙළි			
+161 Jeewana Dayaka Pupaya Me - ඡීවන දායක පුපය මේ			
+162 Daya Premaya Ati Thana - දයා ප්‍රේමය ඇති තැන			
+163 Dakwatha Oba - දක්වත ඔබ			
+164 Alpa Vunata Karana Sewe - අල්ප වුනට කරන සේවෙ			
+165 Panathak Mama - පණතක් මම			
+166 Kithu Detu Sohouru - කිතු දෙටු සොහොයුරු			
+167 Apa Gana Madhakuth Nothaka - අප ගැන මඳකුත් නොතකා			
+168 Dewiyo Wethi Sula Mula Preme - දෙවියෝ වෙති සුල මුල ප්‍රේමේ			
+169 Pipasa Niwa Ganna - පිපස නිවා ගන්න			
+170 Mage Geewanayama - මගේ ඡීවනයම			
+171 Dawasaka Duwili - දවසක දුවිලි			
+172 Kumak Kamudha Kumak Bomudha - කුමක් කමුද කුමක් බොමුද			
+173 Kadulu Wile Me -කඳුළු විලේ මේ			
+174 Dahasak Atharin - දහසක් අතරින්			
+175 Enna Ma Wetha - එන්න මා වෙත			
+176 Nil Thana Golle - නිල් තණ ගොල්ලේ			
+177 Nethata Nopeni - නෙතට නොපෙනි			
+178 Premaya Pathamu - ප්‍රේමය පතමු			
+179 Apa Galawa Ganumata - අප ගලවා ගැනුමට			
+180 Kopamana Rasa Wethidho - කොපමණ රස වෙතිදෝ			
+181 Wemi Mama Madhi Wala - වෙමි මම මැදි වැල			
+182 Oba Adhanno - ඔබ අදහන්නෝ			
+183 Mohothin Mohothata - මොහොතින් මොහොතට			
+184 Dewi Samidhun - දෙවි සමිඳුන්			
+185 Warahali Ellla - වැරහැලි එල්ලා			
+186 Mage Sithata - මගේ සිතට			
+187 Jesu Samide - ඡේසු සමිඳේ			
+188 Samagi Wemu - සමඟි වෙමු			
+189 Isuru Sapath - ඉසුරැ සැපත්			
+190 Hadata Hada Adhe - හදට හද ඇදේ			
+191 Jeewaye Aaharaya - ඡීවයේ ආහාරය			
+192 Jesuni Obawe - ඡේසුනි ඔබ වේ			
+193 Yanawa Ayeth Ma Enawa - යනවා ආයෙත් මා ඵනවා			
+194 Ma Hada Dora Laga - මා හද දොර ලඟ			
+195 Dewiyane Oba - දෙවියනේ ඔබ			
+196 Irata Eliya Dila - ඉරට ඵළිය දිිලා			
+197 Samagi Dhama - සමඟි දහම			
+198 Thilowa Surakina - තිලොව සුරකිනා			
+199 Dewi Samidhano - දෙවි සමිඳාණෝ			
+200 Kusagini Wemi - කුසගිනි වෙමි			
+201 Samide Mama Sudhanam - සමි‌ඳේ මම සුදානම්			
+202 Lowe Pahasa - ලොවේ පහස			
+203 Kalaya Ena Thuru - කාලය එන තුරු			
+204 Minisiyawe - මිනිසියාවේ			
+205 Pipasa Nisa - පිපස නිසා			
+206 Pujaniya Premayai - පුඡනීය ප්‍රේමයයි			
+207 Ida Dennepa - ඉඩ දෙන්නෙපා			
+208 Kithu Samidhu Sawiya - කිතු සමිඳු සවිය			
+209 Araliya Namal - අරලිය නාමල්			
+210 Mithuranta Wage - මිතුරනට වගේ			
+211 Samide Obe Kudarme - සමි‌ඳේ ඔබේ කුඩාරමේ			
+212 Mal Gomu Wala - මල් ගොමු වල			
+213 Natha Mata Thaniyak - නැත මට තනියක්			
+214 Pem Karanna Ekinekata - පෙම් කරන්න ඵකිනෙකාට			
+215 Api Polawe Lunu Wamu - අපි පොළොවේ ලුණු වමු			
+216 Labaganna Sadhakala Geewithe - ලබාගන්න සදාකලේ ඡිවීතේ			
+217 Mage Padha Pamanak Nowa - මගේ පාද පමණක් නොව			
+218 Himi Sadhe Oba Thama - හිමි සඳේ ඔබ තමා			
+219 Thadama Dukin - තදම දුකින්			
+220 Paw Godak Keruwa - පව් ගොඩක් කෙරැවා			
+221 Sithuwillak Wilasin Maa - සිතුවිල්ලක් විලසින් මා			
+222 Kuda Daruweku Se - කුඩා දරුවෙකු සේ			
+223 Adamin Dukase - අඬමින් දුකසේ			
+224 Samarithanu Ladha - සමරිතානු ළඳ			
+225 Ran Dadiya Wagura - රන් දහදිය වගුරා			
+226 Enna Samidhune - ඵන්න සමිඳුනේ			
+227 Yawe Samidhune - යාවේ සමිඳුනේ			
+228 Samidhu Dewidhu - සමිඳු දෙවිඳු			
+229 Ama Ragidhune - අමා රඡිඳුනේ			
+230 Suhadha Premaye - සුහද ප්‍රේමයේ			
+231 Waral Sala - වරල් සලා			
+232 Obe Daya Sene - ඔබේ දයා සෙනේ			
+233 Minis Sathata - මිනිස් සතට			
+234 Gagana Sarana - ගගන සරන			
+235 Naga Ena Hiru - නැඟ ඵන හිරැ			
+236 Diwa Bodunen - දිව බොදුනෙන්			
+237 Punchi Punchi Tharaka - පුංචි පුංචි තාරකා			
+238 Oba Siruren - ඔබ සිරැරේන්			
+239 Balayan Ma Wethata - බාලයන් මා වෙතට			
+240 Suwadha Kakulu - සුවඳ කැකුළු			
+241 Anabera Gasa - අණබෙර ගසා			
+242 Samidhun Athmaya - සමිඳුන් අත්මය			
+243 Apata Lowak Atha - අපට ලොවක් ඇත			
+244 Illa Yadina De - ඉල්ල යදින දේ			
+245 Dinapatha Udhawana - දිනපතා උදාවන			
+246 Maa Thulata Wadinnata - මා තුලට වඩින්නට			
+247 Dewi Samide - දෙවි සමිඳේ			
+248 Hembala Athmaye - හෙම්බල ආත්මයේ			
+249 Ruwan Pahanak - රුවන් පහනක්			
+250 Wati Wati Ma Yali - වැටි වැටි මා යලි			
+251 Sihil Sulan - සිහිල් සුළං			
+252 Samidun Hata Thuthi Gee Puja - සමිඳුන් හට තුති ගී පුඡා			
+253 Tutu Sitha Wadawaw - තුටු සිත වඩවව්			
+254 Samidhuta Jaya We - සමිඳුට ඡය වේ			
+255 Loketa Denna Medha - ලෝකෙට දෙන්න මෙදා			
+256 Oba Apa Kawuwa - ඔබ අප කැවුවා			
+257 Samaye Prithiye - සාමයේ ප්‍රීතියේ			
+258 Thuthi Presansa We - තුති ප්‍රශංසා වේ			
+259 Tuti Pudham Obata Samide - තුති පුදම් ඔබට සමිඳේ			
+260 Dhewidhun Gen - දෙවිඳුන් ගෙන්			
+261 Samaye Mihira Bedha - සාමයේ මිහිර ‌බෙදා			
+262 Samidhuni Lassana - සමිඳුනි ලස්සන			
+263 Kithu Samidhun Jaya Dada - කිතු සමිඳුන් ඡය දද			
+264 Apa Diwi Deranata - අප දිවි දෙරණට			
+265 Sadaham Dhanin - සඳහම් දැහැනින්			
+266 Samaya Dunne - සාමය දුන්නේ			
+267 Dewidhun Hadunanne - දෙවිඳුන් හඳුනන්නේ			
+268 Tanhawen Bodhawu - තණ්හාවෙන් බොඳවු			
+269 Thedhathi Odha Athi - තෙදැති ඔද ඇති			
+270 Dew Piya Samide - දෙව් පිය සමිඳේ			
+271 Samaye Geewitha Maga - සාමයේ ඡිවීත මඟ			
+272 Me Magula Wasare - මෙ මඟුල වසරේ			
+273 Sama Mihira Widha - සාම මිහිර විහිදා			
+274 Samidharuwanane - සමිදරුවාණනේ			
+275 Suwamini Karuna Kala Manawa - ස්වාමිනී කරැණා කළ මැනව			
+276 Kamawanna Kamawanna - කමාවන්න කමාවන්න			
+277 Samidhune Samidhune - සමිඳුනේ සමිඳුනේ			
+278 Samawuwa Mane - සමාවුව මැනේ			
+279 Adhuru Lowak Matha - අඳුරු ලොවක් මත			
+280 Samawanna Samawanna - සමාවන්න සමාවන්න			
+281 Kama Kala Mane - කමා කල මැනේ			
+282 Dewi Samide Guna Karuna - දෙවි සමිඳේ ගුණ කරුණා			
+283 Papi Sithathi - පාපි සිතැති			
+284 Ahadara Jesu - ආදර ඡේසු			
+285 Suralowa Dewidhuta - සුරලොව දෙවිඳුට			
+286 Sagapura Dewidhuta - සඟපුර දෙවිඳුට			
+287 Sagaye Dhewidhutata - සඟයේ දෙවිඳුට			
+288 Dewi Samidhun Hata - දෙවි සමිඳුන් හට			
+289 Mahime Us Mandale - මහිමේ උස් මණ්ඩලේ			
+290 Suralowa Wajabena - සුරලොව වැඡ‌ෙඔන			
+291 Sagalowe Dewidhuta - සඟලොවේ දෙවිඳුට			
+292 Suralowe Dewidhun - සුරලොවේ දෙවිඳුන්			
+293 Sage Dewidhunata - සගේ දෙවිඳුනට			
+294 Shuddawantha Wana Seka - ශුද්ධවන්ත වන සේක			
+295 Suddhaya Suddaya - සුද්දය සුද්දය			
+296 Suwishuddaya Maha Balathi - සුවිශුද්ධය මහා බලැති			
+297 Suwishuddaya - සුවිසුද්දය			
+298 Heli Heli - හේළි හේළි			
+299 Sudawu Mahimathawe - සුද්දවු මහිමතාවේ			
+300 Suwidhuddaya - සුවිශුද්ධය			
+301 Suralowa Babale - සුරලොව බැබලේ			
+302 Sagaye Apage Piye - සගයේ අපගේ පියේ			
+303 Suralowa Piyanani - සුරලොව පියාණනි			
+304 Tri Eka Sura Jesune - ත්‍රී ඵක සුර ඡේසුනේ			
+305 Sagaye Wasana - සගයේ වසන			
+306 Suralowa Sura Piye - සුරලොවේ සුර පියේ			
+307 Saga Wasi - සග වැසි			
+308 Piyanani Obe Nama - පියාණනි ඔබේ නම			
+309 Apage Saga Wasi - අපගේ සග වැසි			
+310 Sagapura Wajabena - සගපුර වැඡ‌‌‌‌ඹෙන			
+311 Lo Paw Usulana - ලෝ පව් උසුලන			
+312 Dew Ajabalakayo - දෙව් අඡබාලකයෝ			
+313 Lo Paw Duralana - ලෝ පව් දුරලන			
+314 Loka Papa Harana - ලෝක පාප හරණ			
+315 Lowe Sath Sama - ලොවේ සත් සැම			
+316 Lowe Papa Adhura - ලොවේ පාප අඳුර			
+317 Lo Paw Duralana - ලෝ පව් දුරලන			
+318 Loka Papa Harana - ලෝක පාප හරණ			
+319 Jesuni Obata Namo - ඡේසුනී ඔබට නමෝ			
+320 Jesu Rajanani - ඡේසු රාඡාණෙනි			
+321 Jayawe Jesuni - ජයවේ ඡේසුනි			
+322 Ronata Wadhina - රොනට වදින			
+323 Jesu Thumeni - ඡේසු තුමෙනී			
+324  Jesui Oba Namaya - ඡේසුනී ඔබ නාමය			
+325 Jesuni Lokayan Kerehi - ඡේසුනී ලොකයන් කෙරෙහි			
+326 Sumihiri Jesu - සුමිහිරි ඡේසු			
+327 Pembara Jesuni - පෙම්බර ඡේසුනී			
+328 Adhara Dhewi Samidu Mage - ආදර දෙවි සමිඳු මගේ			
+329 Kristhu Rajananta - ක්‍රිස්තු රාඡාණන්ට			
+330 Kristhu Thumanta - ක්‍රිස්තු තුමන්ට			
+331 Hardhayen Santha Dantha - හෘදයෙන් සාත්ත දාන්ත			
+332 Kithuni Obe - කිතුනි ඔබේ			
+333 Balaw Balaw Ape Dewsuro - බලව් බලව් අපේ දෙව්සුරෝ			
+334 Galawume Balaw Pu - ගැලවුමේ බලව් පු			
+335 Mihiri Ma We Sitha - මිහිරි මැ වේ සිත			
+336 Hisa Nama - හිස නමා			
+337 Saw De Mawu - සව් දේ මැව්			
+338 Jesus Ma Samidhuni - ඡේසුස් මා සමිඳුනී			
+339 Aa Suridhuni - ආ සුරිඳුනි			
+340 Diwaya Siri - දිව්‍ය සිරි			
+341 Jesuni Jesuni - ඡේසුනි ඡේසුනි			
+342 Jayawewa Saradhewa - ඡයවේවා සැරදේවා			
+343 Saw Som Sirin - සව් සොම් සිරින්			
+344 Wandhana Karamo - වන්දනා කරමෝ			
+345 Mariyathumi Samagina - මරීතුමී සමඟිනා			
+346 Ma Prema Wu - මා ප්‍රේම වු			
+347 Rayehi Ahase- රැයෙහි අහසෙ			
+348 Sirasa Nama - සිරස නමා			
+349 Jesu Dewiyani - ඡේසු දෙවියනී			
+350 Diwaya Sri Pupeni - දිව්‍ය ශ්‍රි පුපෙනී			
+351 Wadhimu Bimata Pahathwi - වඳිමු බිමට පහත් වී			
+352 Suwargayen Pahala Wu - ස්වර්ගයෙන් පහළ වු			
+353 Nithaya Sthuthiyata - නිත්‍ය ස්තූතියට			
+354 Athi Sri Shudha - අති ශ්‍රි ශුද්ධ			
+355 Aa Uthum Me - ආ උතුම් මේ			
+356 Samidhuni Oba - සමිඳුනි ඔබ			
+357 Diwaya Jesu Me Thama - දිව්‍ය ඡේසු මේ තමා			
+358 Paraloke Mannaweni - පරලෝකේ මන්නාවෙනී			
+359 Jesuni Nidhada Wii - ඡේසුනී නිහඬ වී			
+360 Kuruse Naega Ath Wihidhaa - කුරුසේ නැඟ අත් විහිදා			
+361 Maa Jeasu - මා ඡේසු			
+362 Yahanaka Wilase  - යහනක විලසේ			
+363 Maru Paradhala - මරු පරදාලා			
+364 Sewanali Matha - සෙවනැලි මත			
+365 Balaw Balaw Kurusea - බලව් බලව් කුරැසේ			
+366 Nagitiw Ekwew - නැගිටිව් ඵක්වෙව්			
+367 Aalokaye Daruwo - ආලෝකයේ දරැවෝ			
+368 Pawuru Bidhan - පවුරු බිඳන්			
+369 Sirureni Saba Namo - සිරුරෙනි සැබෑ නමෝ			
+370 Aho Low Paw Nisa - අහෝ ලෝ පව් නිසා			
+371 Jesuni Maraneta - ජේසුනි මරණෙට			
+372 Gathsemeni Nam - ගැත්සෙමේනි නම්			
+373 Wadanawe Dhura - වාදනවේ දුර			
+374 Lo Dana Galawana Lesa - ලෝ දනා ගලවන ලෙසා			
+375 Sura Lovine - සුර ලොවිනේ			
+376 Karunabara Atha Pa - කරුණාබර අතපා			
+377 Ma Mawni - මා මව්නී			
+378 Sibimuwa Obe Siri Pa Kamala - සිඔිමුව ඔබේ සිරි පා කමලා			
+379 Panibara Wana Mal - පැනිබර වන මල්			
+380 Sagare Tharuweni - සාගරේ තරුවෙනී			
+381 Suridu Jesu Maniye - සුරිඳු ඡේසු මෑණියේ			
+382 Nimala Kanni Mariya - නිමල කන්නි මරිය			
+383 Depa Laga Thabala - දෙපා ලඟ තබාලා			
+384 Sri Lanka Rani Maniye - ශ්‍රි ලංකා රාණි මෑණියේ			
+385 Suwada Jale Pipi  - සුවඳ ඡලේ පිපි (Check Order)			
+386 Mangala Wewa - මංගල වේවා			
+387 Apamana Setha Mata - අපමණ සෙත මට			
+388 Suwadha Sawandha - සුවඳ සැවැන්න			
+389 Mariyani Mage - මරියනි මගේ			
+390 Jannma Doseyen - ජම්ම දෝෂයෙන්			
+391 Mariya Raginiye Ma - මරිය රැඡිණියේ මා			
+392 Oba Laga Sarana Soya - ඔබ ළඟැ සරණ සොයා			
+393 Amma Pudhannai - අම්මා පුදන්නයි			
+394 Theja Baritha - තේඡ බරිත			
+395 Mage Ath Bawa - මගේ අත් බව			
+396 Jesu Amme - ඡේසු අම්මේ			
+397 Muhudhe Dulana - මුහුදෙ දුලන			
+398 Mangala Siri Mawala - මංගල සිරි මවලා			
+399 Nan Wara Labadi - නන් වර ලැබදී			
+400 Udhaye Pipunu - උදයෙ පිපුනු			
+401 Sura Lowa Rajiniye - සුර ලොව රාජිණියේ			
+402 Liliya Seya - ලිලිය සේය			
+403 Wanaw Babuluwa - වනව් බබුළුවා			
+404 Nimala Wu Kanni Matha - නිමල වු කන්නි මාතා			
+405 Namo Mariya Ragini - නමෝ මරිය රාජීනී			
+406 Sunimal Upatha Obe - සුනිමල් උපත ඔබේ			
+407 Wewa Ma Mathata - වේවා මා මාතාට			
+408 Dakim Mage Mawun - දකිම් මගේ මවුන්			
+409 Samadhanye Rajiniya - සාමදානයේහි රාඡිණිය			
+410 Sapiri Sama (Thuti Namosthu) - සපිරි සැම (තුති නමොස්තු)			
+411 Kiyaw Mari Themita - කියව් මරී තෙමීට			
+412 Geetha Gayamin - ගීත ගයමින්			
+413 Dewidhu Wachanayata - දෙවිඳු වචනයට			
+414 Pathimawe Mani - පාතිමාවේ මෑණී			
+415 Nelum Pipila - නෙළුම් පිපීලා			
+416 Obai Ape Rani - ඔබයි අපේ රාණී			
+417 Obe Sobana Ath Wihidha - ඔබේ සොබන අත් විහිදා			
+418 Nimala Kumariye - නිමල කුමරියේ			
+419 Suwadathi Sumudhu - සුවදැති සුමුදු			
+420 Saman Kakulu Tuwarala - සමන් කැකුළු තුවරලා			
+421 Ridi Wala Gabin Nagena - රිදී වළා ගැ‌බෙන් නැගෙන			
+422 Sprinthu Santhu Dew Suwamini - ස්ප්‍රීතු සාන්තු දෙවි ස්වාමිනී			
+423 Dewan Pahan - දෙවන් පහන්  (Full Hymn)			
+424 Sprinthu Santhu Dhew Wadinu - ස්ප්‍රිතු සාන්තු දෙව් වඩිනු			
+425 Suddathmeni - ශුද්ධාත්මෙනී			
+426 Suddathmeni Suddathmeni - ශුද්ධාත්මෙනී ශුද්ධාත්මෙනී			
+427 Wadinu Dew Sprinthu - වඩිනු දෙව් ස්ප්‍රීතු			
+428 Wadinu Dew Masiya - වඩිනු දෙව් මැසියා			
+429 Aho Mee Ra - අහෝ මේ රෑ			
+430 Ra Tharu Babalanawa - රෑ තරු බබළනවා			
+431 Kalakata Pera E Bethleheme - කලකට පෙර ඒ බෙත්ලෙහෙමේ			
+432 Sinu Hidin - සීනු හඬින්			
+433 Rayaka Adhura - රැයක අඳුර			
+434 Samaye Kumruwane - සාමයේ කුමරුවනේ			
+435 Jesu Rajano - ඡේසු රාඡාණෝ			
+436 Niila Ahase - නීල අහසේ			
+437 Baloli Baloliye - බාලොලි බාලොලියේ			
+438 Bethlehem Pure - බෙත්ලෙහෙම් පුරේ			
+439 Bethleheme Ada Ra Upanna - බෙත්ලෙහෙමේ අද රෑ උපන්නා			
+440 Sura Dutha Katha - සුර දුත කථා			
+441 Ran Rasin - රන් රසින්			
+442 Tharu Godak - තරැ ගොඩක්			
+443 Hadhai Tharui - හඳයි තරුයි			
+444 Nisasla E - නිසසල ඵ්			
+445 Bethlehem Puraye - බෙත්ලෙහෙම් පුරයේ			
+446 Doi Doi Puthune - දොයි දොයි පුතුනේ			
+447 Seethala Pini Poda - සීතල පීණි පොද			
+448 Sodhuru Payaka - සොඳුරු පැයක			
+449 Payana Tharu Pela - පායන තරු පෙල			
+450 Sri Knaya Maniyange - ශ්‍රි කන්‍ය මෑණියන්ගේ			
+451 Santhana Maniyane Dew Mawage - සන්තානා මෑණියණේ දෙව් මවගෙ			
+452 Santha Ana Maniyane - සාන්ත ආනා මෑණියණේ			
+453 San Sebesthiyen - සන් සෙබස්තියන්			
+454 Sebsthiyan Muni Sadhune - සෙබස්තියන් මුනි සඳුනේ			
+455 Jayasiri Magulaki - ජයසිරි මඟුලකි			
+456 Padhuwa Nagaraye - පාදුවා නගරයේ			
+457 Lassana Kusuman - ලස්සන කුසුමන්			
+458 Illana De Dena Nibadhe - ඉල්ලන දේ දෙන නිබ‌ඳේ			
+459 Wewa Jayasiri - වේවා ඡයසිරි			
+460 Wandhaniya Wu - වන්දනීය වූ			
+461 Suranganawiyak Wage - සුරංගනාවියක් වගේ			
+462 Manglam Jaya Mangalam - මංගලම් ජය මංගලම් 			
+463 Adhare Mal - ආදරේ මල්			
+464 Pottu Pottu -  පොට්ටු පොට්ටු			
+465 Le Kiri Karala - ලේ කිරි කරලා			
+466 Mal Mal Lowakata - මල් මල් ලොවකට			
+467 Manglam Suba Mangalam - මංගලම් සුබ මංගලම්			
+468 Sangeewadhani - සංජීවදානී			
+469 Apa Surakina - අප සුරකින			
+470 Mithuran Samagina - මිතුරන් සමඟින			
+471 Pith Puth Sprinthu - පිත් පුත් ස්පිරිතු			
+472 Ksama Kala Manawa - ක්ෂමා කළ මැනව			
+473 Jesuge Sirurama - ඡේසුගේ සිරුරම			
+474 Amme Kiyannako - අම්මේ කියන්නකෝ			
+475 Methan Patan - මෙතැන් පටන්			
+476 Dukbara Diwiyaka - දුක්බර දිවියක			
+477 Diwarayo - ධිවරයෝ			
+478 Waradha Ma Athe - වරද මා අතේ			
+479 Sadhakala Me Porondhuwe - සදාකාල මේ පොරොන්දුවේ			
+480 Kawuru Wuwath Oba - කවුරු වුවත් ඔබ			
+481 Ukuth Wuha - උකුත් වුහ			
+482 Kadhawanu Mana - කැඳවනු මැන			
+483 Dewi Samidhunge - දෙවි සමිඳුන්ගේ			
+484 Sarane - සරණේ			
+485 Kakule Pathule - කැකුලේ පතුලේ			
+486 Kuda Apiwa - කුඩා අපව			
+487 Kamathi Lesin - කැමති ලෙසින්			
+488 Dal Purawa - දැල් පුරවා			
+489 Paminethwa - පැමිණෙත්වා			
+490 Dew Du Waru - දෙව් දූ වරු			
+491 Namo Piya Dewithuma Namo - නමෝ පිය දෙවිතුම නමෝ			
+492 Piya Dew Namadha - පිය දෙව් නැමදා			
+493 Punchi Ape Rajanani - පුංචි අපේ රාජණනි			
+494 Dewa Presansa - දේව ප්‍රශංසා			
+495 Ma Wetha Oba Enta - මා වෙත ඔබ එන්ටා			
+496 Iwasillak Nathiwa - ඉවසිල්ලක් නැතිව			
+497 Sama Deyama Mawamine - සෑම දෙයම මවමිනේ			
+498 Loke Rakshanayeni - ලෝකේ රකෂණයෙනි			
+499 Muthu Kata Soyanata - මුතු කැට සොයනට			
+500 Dewi Samidhu Midi Uyane - දෙවි සමිඳු මිදි උයනේ			
+501 Samidun Mawwa Dinaya - සමිඳුන් මැව්ව දිනය			
+502 Ek Wee Badi - එක් වී බැදී			
+503 Samidune Denu Mane (Dewidu Namin) - සමිඳුනේ දෙනු මැනේ (දෙවිඳු නමින්)			
+504 Yami Mama Samidu Soya - යමි මම සමිඳු සොයා			
+505 Kithu Samaye Mihiren - කිතු සාමයේ මිහිරෙන්			
+506 Pawulaka Daruwan Se - පවුලක දරුවන් සේ			
+507 Piya Naga Naga - පිය නඟා නඟා			
+508 Pancha Thuraya - පංච තූර්ය			
+509 Diwi Athi Thuru Ma - දිවි ඇති තුරු මා			
+510 Bathibara Hagumin - බැතිබර හැඟුමින්			
+511 Dewiduni Api Oba Wadinamo - දෙවිඳුනී අපි ඔබ වඳින්නමෝ			
+512 Pudasuna Wetha Yannata - පුදසුන වෙත යන්නට			
+513 Dewidu Wadinnata - දෙවිඳු වදින්නට			
+514 Geethawaliye Gee Anka 147 - ගිතාවලියේ ගී අංක 147			
+515 Geethawaliye Gee Anka 116 - ගිතාවලියේ ගී අංක 116			
+516 Geethawaliye Gee Anka 78 - ගිතාවලියේ ගී අංක 78			
+517 Geethawaliye Gee Anka 34 - ගිතාවලියේ ගී අංක 34			
+518 Geethawaliye Gee Anka 66 - ගිතාවලියේ ගී අංක 66			
+519 Geethawaliye Gee Anka 147 - ගිතාවලියේ ගී අංක 147			
+520 Obe Wachanaye Rasa - ඔබේ වවනයේ රස			
+521 Pahan Peratu Kota - පහන් පෙරටු කොට 			
+522 Mage Diwiya Mulumanin - මගේ දිවිය මුළුමණින් 			
+523 Jeewithayada Apa Sathu Samade - ජීවිතයද අප සතු සැමදෙ			
+524 Piyanani Dewi Piyanani - පියාණනී දෙවි පියාණනී			
+525 Me Yagaya Mage Yagayai - මේ යාගය මගේ යාගය යි			
+526 Dethe Pipena Karageta Mal - දෑතේ පිපෙන කරගැට මල්			
+527 Duk Karadhara Podi - දුක් කරදර පොදි			
+528 Pathalaka Bahela - පතලක බැහැල			
+529 Dathe Sawiyen Lada - දෑතේ සවියෙන් ලද			
+530 Sada Kiranin Vikasitha Vunu - සඳ කිරණින් විකසිත වුනු			
+531 Pudami Obata -  පුදමි ඔබට			
+532 Pudamu Pudamu Pudamu Paduru - පුදමු පුදමු පුදමු පඬුරු			
+533 Pudasunak Atha Yaga Pudannata - පුදසුනක් ඇත යාග පුදන්නට			
+534 Pudamu Paduru Apa Gena - පුදමු පඬුරු අප ගෙනා			
+535 Sura Loken Me Lo Pala Wu (Sura Jesusge Sri Manseni) - සුර ලෝකෙන් මේ ලො පාල වූ (සුර ජේසුස්ගේ ශ්‍රී මාංසෙනී)			
+536 Jesuni Dewiyani - ඡේසුනි දෙවියනී			
+537 Diwyathi Diwya Kanthiyen - දිව්‍යති දිව්‍ය කාන්තියෙන්			
+538 Diwa Bodunai Mage Gathai - දිව ‌බොදුනයි මගේ ගතයි			
+539 Jesu Samide Mage - ඡේසු සමිඳේ මගේ			
+540 Ida Dennam Samidune - ඉඩ දෙන්නම් සමිඳුනේ			
+541 Oba Wadala Hama Wadanaka - ඔබ වදාළ හැම වදනක			
+542 Presansa Wewa - ප්‍රශංසා වේවා			
+543 Samata Palamu Dew Rajaya Soyawu - සෑමට පළමු දෙව් රඡය සොයවු 			
+544 Mage Sithata Sahanayak Patha - මගේ සිතට සහනයක් පතා			
+545 Nawum Sithak Thana Ganna - නැවුම් සිතක් තනා ගන්න 			
+546 Maa Balawth Karana Samidanan Thula  - මා බලවත් කරනා සමිදානණ් තුළ			
+547 Dewa Wadhana - දේව වදන			
+548 Osawa Yana Se Patawun - ඔසවා යන සේ පැටවුන්			
+549 Samidun Sihasuna Dara - සමිඳුන් සිහසුන දරා 			
+550 Mage Sithata Sahanaya - මගේ සිතට සහනය			
+551 Apa Pawula Ma Oba Mahimaya Sadhaha - අප පවුලම ඔබ මහිමය සඳහා 			
+552 Sara Sade Res - සරා සදේ රැස්			
+553 Mama Nuba Kisida - මම නුඹ කිසිදා			
+554 Rajaliyakage Tatu Matha - රාජාලියකගේ තටු මත			
+555 Pudasuna Hamuwe ( Samidhe Oba Mage Jeewithayai) - පුදසුන හමුවේ (සමිඳේ ඔබ මගේ ඡිවීතයයි)			
+556 Samara Bathin - සමරා බැතින්			
+557 Aloke Mage - අලෝකේ මගෙ			
+558 Mahimaya Pasasuma Nithi Ath We - මහිමය පැසසුම නිති අත් වේ			
+559 Oba Maa Asalin Sitina Nisa - ඔබ මා අසලින් සිටින නිසා			
+560 Lowa Adurui - ලොව අඳුරුයි			
+561 Natana Reli Wage - නටන රැළි වගේ			
+562 Pura Hadawathin Sitha - පුරා හඳවතින් සිතා			
+563 Galawum Karuwano - ගැලවුම් කරුවාණෝ			
+564 Wadanata Sima Nowena - වදනට සීමා නොවෙනා			
+565 Deneth Atharin - දෙනෙත් අතරින්			
+566 Nithi Apa Surakina - නිති අප සුරකින 			
+567 Pidum No Thaka - පිඳුම් නො තකා			
+568 Obai Sabe Midiwala Samide - ඔබයි සැබෑ මිදිවැල සමිඳේ			
+569 Samidunge Guna Yahapathkam - සමිඳුන්ගේ ගුණ යහපත්කම්			
+570 Lowa Asarana Satha Hata - ලොව අසරණ සත හට			
+571 Lawanak Wee Rasa Dennata - ලවණක් වී රස දෙන්නට 			
+572 Suwa Sahanaya Mage Sithata - සුව සහනය මගේ සිතට			
+573 Dasa Masa Ma Oba Kuse Dara - දස මස මා ඔබ කුසේ දරා			
+574 Oba Thora Gath Obage Rajaye - ඔබ තොරා ගත් ඔබගේ රජයේ			
+575 Obe Athagili Matha - ඔබෙ අතැ'ඟිලි මතැ			
+576 Asimithawa Pem Karana Piyanani - අසීමිතව‌ පෙම් කරණා පියාණෙනී			
+577 Pudasuna Abiyasa Ma - පුදසුන අභියස මා			
+578 Samiduni Oba We Mage Edera - සමිඳුනි ඔබ වේ මාගෙ ඵඬේරා			
+579 Mahimathawe Balawathano - මහිමතාවේ බලවතාණෝ 			
+580 Jeewithe Pura - ඡීවිතේ පුරා			
+581 Diwiye Arutha Obai - දිවයේ අරුත ඔබයි			
+582 Pahan Ragena Dothin - පහන් රැගෙන දොතින්			
+583 Samidano Gruhaya Nohadath Nam - සමිඳාණෝ ගෘහය නොහදත් නම්			
+584 Wemi Mama Yahapath Ederano - වෙමි මම යහපත් එඩේරාණෝ 			
+585 Ma Dakina Neth - මා දකිනා නෙත්			
+586 Athharalami Mama Ma Maa - අත්හැරලමි මම ම මා			
+587 Jesu Obe Gune - ඡේසු ඔබේ ගුණ			
+588 Talenthu Leba Obagen -  තලෙන්තු ලැබ ඔබගෙන්			
+589 Samide Oba Dhepa Sewane - සමිඳේ ඔබ දෙපා සෙවනේ			
+590 Dewidunge Sura Rajidunge - දෙවිඳුන්ගේ සුර රඡිඳුන්ගේ			
+591 Kothanada Kothanada Ukthiya Rajayanne - කොතැනද කොතැනද යුක්තිය රඡයන්නේ			
+592 Samide Samide - සමිඳේ සමිඳේ			
+593 Hitha Hari Ma Enathuara - හිත හැරී මා එනතුරා			
+594 Samidun Pamula Alokaya Dii - සමිඳුන් පාමුල අලෝකය දී			
+595 Mage Janaini Janaini - මගේ ජනයිනි ජනයිනි			
+596 Arambaya Samidun We - ආරම්භය සමිඳුන් වේ			
+597 Ipilenna Hada Sathutin - ඉපිලෙන්න හද සතුටින්			
+598 Maage Waradin Paw Kalemi (Samiduni Mariyani)  - මාගේ වරදින් පව් කලෙමි (සමිඳුනි මරීයනී)			
+599 Kaduledi Ma Sahanaya Samiduni Obamai - කඳුලේ දී මා සහනය සමිඳුනි ඔබම යි			
+600 Lowa Dana Hata Dew Mahimaya Danuna We - ලොව දන හට දෙවි මහිහට දැනුනා වේ			
+601 Wewa Mangala - වේවා මංගල			
+602 Donkarya Rawa Nanwana - දෝංකාරය රාව නංවන			
+603 Sura Bawane Dewidunta - සුර භවනේ දෙවිඳුන්ට			
+604 Alleluia (Samidano Ma Udesa) - ආලේලුයියා  (සමිඳාණෝ මා උදෙසා)			
+605 Alleluia (Mama Yahapath) - ආලේලුයියා  (මම යහපත්)			
+606 Viswasayainge Yachcha (Adhara Samide) - විශ්වාසකයිනේගේ යාච්ඤා (අදර සමිඳේ)			
+607 Viswasayainge Yachcha (Piyanani Sage) - විශ්වාසකයිනේගේ යාච්ඤා (පියාණනි සගේ)			
+608 Suwishuddaya - සුවිශුද්ධය			
+609 Sri Kurusiya - ශ්‍රී කුරුසිය			
+610 Vishwasaya Prekasha Kirima - විශ්වාසය ප්‍රකාශ කිරීම			
+611 Sagaye Wada Wasana - සඟයේ වැඩ වසනා			
+612 Lo Paw Duralana - ලෝ පව් දුරලන			
+613 Suralowe Surapiye - සුරලෝවේ සුරපියේ			
+614 Samidhuni Oba Hara Damala - සමිඳුනි ඔබ හැර දමලා			
+615 Samidu Sapiri Guna Suwadin -  සමිඳු සපිරි ගුණ සුවඳින්			
+616 Sagawii Hidinnata ඔබෙන් - සැඟවී හිදින්නට ඔබෙන්			
+617 Mage Nidhahasa - මගේ නිදහස			
+618 Nawa Panathak Demi - නව පණතක් දෙමි			
+619 Jeewamana Jesu - ඡිවමාන ඡේසු			
+620 Ahase Igilena Kurullane - අහසේ ඉගිලෙන කුරුල්ලනේ			
+621 Samiduni Oba Harada - සමිඳුනි ඔබ හැරදා			
+622 Samiduni Obe Thira Pema Gana Sadahata - සමිඳුනි ඔබෙ තිර පෙම ගැන සඳහට			
+623 Mama Wemi Yahapath Batalu Ederano - මම වෙමි යහපත් බැටළු එඬේරාණෝ			
+624 Sama Wana Wiruwanani - සමා වන විරුවාණනි			
+625 Kithu Samide - කිතු සමිඳේ			
+626 Biya Noma Wanu Janayinne - බිය නොම වනු ජනයින්නේ			
+627 Karuna Kala Mana Samide - කරුණා කළ මැන සමිඳේ			
+628 Sri Wachanayano - ශ්‍රී වචනයාණෝ			
+629 Oba Mata Pa - ඔබ මට පෑ			
+630 Horane Nadhen - හොරණෑ නාදෙන්			
+631 Wehesa Vidina Daruwane - වෙහෙස විඳින දරුවනේ			
+632 Bataluwan Wenuwen - බැටළුවන් වෙනුවෙන්			
+633 Dewiduge Adaraya Janayini - දෙවිඳුගේ ආදරය ඡනයිනි			
+634 Kithu Hada Pathuramu - කිතු හඬ පතුරමු			
+635 Katha Kalath Ma Minis Basin - කතා කලත් මා මිනිස් බසින්			
+636 Rayeth Dawaleth Dewiduta - රැයෙත් දවාලෙත් දෙවිඳුට			
+637 Sarwa Chana Thejasdhari - සර්ව ඤාණ තේජස්ධාරී			
+638 Ma Suwapath Kala Mane - මා සුවපත් කළ මැනේ			
+639 Samiduni Samiduni - සමිඳුනී සමිඳුනී			
+640 Samaya Wewa -  සාමය වේවා			
+641 Suwa Karanna Ma - සුව කරන්න මා			
+642 Rasa Nathi Pan - රස නැති පැන්			
+643 Bage Sith Thula - බැගෑ සිත් තුළ			
+644 Oba Mage Dewidun Nisa - ඔබ මගේ දෙවිඳුන් නිසා			
+645 Ma Obage Samidhanan - මා ඔබගේ සමිඳාණන්			
+646 Dugi Magi Yachaka - දුගී මගී යාචක			
+647 Mage Sohouran Udesa - මගේ සොයුරන් උදෙසා			
+648 Gosha Pathurana Gantarayakata - ඝෝෂා පතුරන ඝන්ඨාරයකට‌			
+649 Uruga Balanna Ma - උරගා බලන්න මා			
+650 Obage Hadawathin - ඔබගේ හදවතින්			
+651 Balawath Samidano - බලවත් සමිඳාණෝ			
+652 Galawum Kurusiya - ගැලවුම් කුරුසිය			
+653 Jeewithayata Alokya - ජීවිතයට ආලෝකය			
+654 Dahasakuth Ekakak De Atha - දහසකුත් එකක් දේ ඇත			
+655 Madi Raye Adadure Nama Kiya - මැදි රැයේ අඩඳුරේ නම කියා			
+656 Sithin Dilindo - සිතින් දිළින්දෝ			
+657 Dewiyani Obe Bala Mahima - දෙවියනි ඔබේ බල මහිමේ			
+658 Mila Mudal Nowa - මිල මුදල් නොව			
+659 Jewithe Rudu Mawathe - ජීවිතේ රුදු මාවතේ			
+660 Sitha Widabarai - සිත විඩාබරයි			
+661 Jeewamana Dewidhe - ජීවමාන දෙවිඳේ			
+662 Jesuge Hadin - ඡේසුගේ හදින්			
+663 Dewidu Pa Nagai - දෙවිඳු පා නඟයි 			
+664 Duka Dura Pirila Me Manulowa Thula - දුක'ඳුර පිරිලා මේ මනුලොව තුල			
+665 Pawan Miduma - පවන් මිඳුම			
+666 Sagaye Sitha Wadinu Mane - සඟයේ සිට වඬිනු මනේ			
+667 Anawaki Desu Dewidu Obai - අනාවැකි දෙසු දෙවිඳු ඔබයි			
+668 Dilidu Palaka - දිළිඳු පැලක			
+669 Re Ahas Thale - රෑ අහස් තලේ			
+670 Sadahe Sithin Misa - සැඳැහැ සිතින් මිස			
+671 Tharu Godak - තරු ගොඩක්			
+672 Ran Thatiyak - රන් තැටියක්			
+673 Sak Gedi Pibala - සක් ගෙඩි පිඹලා			
+674 Hima Sudu Hima Kadu - හිම සුදු හිම කඳු			
+675 Nisala Raye - නිසල රැයේ			
+676 Anadi Dew Thuma - අනාදි දෙව් තුමා			
+677 Siribara Nathal Da - සිරිබර නත්තල් දා			
+678 Samaye Parawiyo - සාමයේ පරවියෝ			
+679 Sura Gee Boda Wela - සුර ගී බොඳ වෙලා			
+680 Payala Taraka - පායලා තාරකා			
+681 Natha Kisiwek - නැත කිසිවෙක්			
+682 Bethleheme - බෙත්ලෙහෙමේ			
+683 Geetha Rawen - ගීත රාවෙන්			
+684 Lowa Nidi Gath Mohothe - ලොව නිදි ගත් මොහොතේ			
+685 Wenna Kama Samide - වෙන්න කමා සමිඳේ			
+686 Dewiyani Ai Ma - දෙවියනි ඇයි මා			
+687 Jesu Puthe - ඡේසු පුතේ			
+688 Samidu Mage Kurusiyehi - සමිඳු මගේ කුරුසියෙහි			
+689 Mal Uyane Munin Thala Wati - මල් උයනේ මුහුණින් තලා වැටී			
+690 Siri Kurusiya - සිරි කුරුසිය			
+691 Meyai Samidun Ana Gasuwa Kuruse - මේයයි සමිඳුන් ඇණ ගැසුව කුරුසේ			
+692 Eda Bodun Mesedi Re - එදා බොදුන් මෙසේදී රූ			
+693 Mage Piyanani - මගේ පියාණෙනී			
+694 Hakinam Me Kusalanaya Magen - හැකිනම් මේ කුසලානය මාගෙන්			
+695 Mangala Mesayedi - මංගල මේසයෙදී			
+696 Kathara Bime Tani Wii - කතර බිමේ තනි වී			
+697 Samidun Ha Nagitiw - සමිඳුන් හා නැගිටිව් 			
+698 Apa Galawannata Jesu - අප ගලවන්නට ඡේසු			
+699 Aaleluya - ආලේලූයා			
+700 Mariya Mawe - මරිය මවේ			
+701 Balasampanna Wu Maw Ragina - බලසම්පන්න වූ මව් රැඡිණ			
+702 Dew Asiri Laba - දෙව් ආසිරි ලැබ			
+703 Sura Pura Nara Lowa - සුර පුර නර ලොව			
+704 Jesu Mawe Maniyane - ඡේසු මවේ මෑණියනේ			
+705 Dewa Diyaniye - දේව දියණියේ			
+706 Mangala We Sadasarana Maniyane - මංගල වේ සදාසරණ මෑණියනේ			
+707 Dew Puthuge Mathru Wu - දෙව් පුතුගේ මාතෘ වු			
+708 Hadawa Nala Veena Waya - හඬව නලා වීණා වයා			
+709 Nimala Mawni Ma Hade - නිමල මව්නි මා හදේ			
+710 Sura Pura Raginiya Apa Lada Tilinya - සුරපුර රැඡිණිය අප ලද තිළිණය			
+711 We Namo - වේ නමෝ			
+712 Mawni Obe - මව්නි ඔබේ			
+713 Namo Mariayani - නමෝ මරියනී			
+714 Sada Saranaye Maniyani Ape - සදා සරණයේ මෑණියනි අපේ			
+715 Suwada Malak - සුවඳ මලක්			
+716 Oba Da Katuwa - ඔබ ද කැටුව 			
+717 Dewidu Bihi Kala Giwisuami - දෙවිඳු බිහි කළ ගිවිසුමයි			
+718 Mul Deguru Ape E - මුල් දෙගුරු අපේ ඒ			
+719 Wadanin Pamanak - වදනින් පමණක්			
+720 Oba Dedena Pahi - ඔබ දෙදෙනා පෑහී			
+721 Suddathmayannani (Mawanna Ma Thula Aluth Mawillak) - ශුද්ධාත්මයාණනී (මවන්න මා තුළ අලුත් මැවිල්ලක් )			
+722 Shuddahathmayaneni (Sudathum Waram Ragene) - ශුද්ධාත්මයාණෙනි (සුදතුම් වරම් රැගෙනේ)			
+723 Jeewayane Samida - ඡීවනයේ සමිඳා			
+724 Suddathmayanani (Wadinu Mane) - ශුද්ධාත්මයාණනි (වඩිනු මැනේ)			
+725 Suddathmayanane (Wadin Obe Uthum Waram Ragene) - ශුද්ධාත්මයාණනේ (වඩින් ඔබේ උතුම් වරම් රැගෙනේ)			
+726 Aa Enu Mane Shuddathmeni - ආ එනු මැනේ ශුද්ධාත්මෙනී			
+727 Piwithuru Karanna - පිවිතුරු කරන්න			
+728 Athmayaneni Shuddathmayanani - ආත්මයාණෙනි ශුද්ධාත්මයාණෙනි			
+729 Paduwawe Daham Desu - පාදුවාවේ දහම් දෙසු			
+730 Sakala Danan Hata - සකල දනන් හට			
+731 Jusewas Samaruma - ජුසේවාස් සැමරුම			
+732 Dubala Apage Garu Buhuman -  දුබල අපගේ ගරු බුහුමන් (සාන්ත ජුඩ් මුනි ගීය - Saint Jude's Hymn)			
+733 Susudhu Sumudhu - සුසුදු සුමුදු (සාන්ත සිසිලියා මුනි ගීය - Saint Cecilia's Hymn)			
+734 Me Loke Gayana Karanne - මේ ලෝකේ ගායනා කරන්නේ (සාන්ත සිසිලියා මුනි ගීය - Saint Cecilia's Hymn)			
+735 San Juse Muni Premaniya - සන් ඡුසේ මුනි ප්‍රේමණිය			
+736 Santha Wu Muniduni Wisenthi Pawuala - සාත්ත වු මුනිඳුනි විසේන්ති පාවුලා (සාන්ත විසේන්ති පාවුලා මුනි ගීය - Saint Vincent de Paul's Hymn)			
+737 Agradutha Athi Uttama Mikayel - අග්‍රදුත අති උත්තම මිඛායෙල්			
+738 Melkisedekge Parapuren - මෙල්කිසෙදෙක්ගේ පරපුරෙන්			
+739 Samidhe Obe Abiyogaya - සමිඳේ ඔබේ අභියෝගය			
+740 Mage Nama Kiya - මගේ නම කියා			
+741 Dwi Samidun Kala Sama De - දෙවි සමිඳුන් කල සැම දේ			
+742 Emi Mama Himisadune - එමි මම හිමිසඳුනේ			
+743 Oba Amathana Ma - ඔබ අමතන මා			
+744 Samidun Shrawayakayaku - සමිඳුන් ශ්‍රාවකයෙකු			
+745 Trithwa Namaskara - ත්‍රීත්ව නමස්කාරය			
+746 Tri Lowata Nathano - ත්‍රී ලොවටා නාතාණෝ			
+747 Jesuge Athmen - ඡේසුගේ ආත්මෙන්			
+748 Wandana - වන්දනා			
+749 Luhudu Yachcha - ලුහුඩු යාච්ඤා			
+750 Sitha Piwithuru - සිත පිවිතුරු			
+751 Karunabara Atha Pa - කරුණාබර අත පා			
+752 Samidun Rala Rakina Se - සමිඳුන් රැළ රකිනා සේ			
+753 Juse Was Muniwara Geeya - ජුසේ වාස් මුනිවර ගීය			
+754 Ekamuthu Wemu Api - එකමුතු වෙමු අපි (අගරදගුරු පදවි දහම් පාසල් ගීය)			
+755 Sri Lanka Matha - ශ්‍රි ලංකා මාතා (ජාතික ගීය)			
+දේවමාතා ප්‍රාර්ථනාව			
+ශුද්ධවු කානික්ක දේවමාතාවහන්සේගේ පිහිට ලබන්ට කියන ප්‍රාර්ථනාව			
+සදාසරණ නුවානය			
+A Le Galuwe - ඒ ලේ ගැලුවේ			
+Aaa Uthum Wu - ආ උතුම් වූ			
+Aadheraka Mahime - ආදරයක මහිමේ			
+Aaloke Dila - ආලෝකේ දීලා			
+Aarambaya Samidun We  - ආරම්භය සමිදුන් වේ			
+Adahami Diwaya Sathprasadeni - අදහමි දිව්‍ය සත්ප්‍රසාදෙනී			
+Adahillen Enna  - ඇදහිල්ලෙන් එන්න			
+Adarayaka Mahime (Sathuta Aran Oba Awa) - ආදරයක මහිමේ (සතුට අරන් ඔබ ආවා)			
+Adaraye Unusuma Laga - ආදරයේ උණුසුම ලඟ 			
+Adarei Mage Jesu - ආදරෙයි මගේ ජේසු			
+Adarenma Apawa Rakina - ආදරයෙන්ම අප  සුරකින			
+Adeste Fideles  + O Come All Ye Faithful[Mix]	[Mix]		
+Adoramuste			
+Adura Madin Eliya Galanawa - අඳුර මැදින් ඵලිය ගලනවා			
+Aetha Dinaka - ඈත දිනක			
+Agnus Dei			
+Agula Genen Thotiyo Thotiyo -  අඟුල ගෙනෙන් තොටියෝ තොටියෝ			
+Ahas Kusata Wada  - අහස් කුසට වඩා			
+Ahasa Pura Wasinu Aduru - අහස පුරා වැසුණු අඳුරු			
+Ahase Mudune - අහසේ මුදුනේ  			
+Ahase Tharu Eli Rakiyan - අහසේ තරු එළි රකිනා			
+All That I Am (I Offer My Life)			
+Amathanna Samide Dubala Mema - අමතන්න සමිඳේ දුබල මෙමා			
+Amathanu Samide - අමතනු සමිඳේ			
+Amma Mage (Niranthare Niranthare) - අම්මා මගේ (නිරන්තරෙන් නිරන්තරේ)			
+Amme Amme - අම්මේ අම්මේ			
+Amme Mage - අම්මේ මා			
+Amutrabarawu Jesuthumange Sri Maranayehi Yachawa (Mal Uyanaedi) - අමෘතබරවූ ජේසුතුමන්ගේ ශ්‍රී මරණයෙහි යාච්ඤාව (මල් උයනේදී)			
+An Hamata Wada Dewidhun Soyamau  - අන් හැමට වඩා දෙවිඳුන් සොයමු			
+Angels We Have Heard + බෙත්ලෙහෙමේ අද රෑ උපන්නා  [Mix]			
+Angels We Have Heard On High			
+Apa Dubala Yai Kiya - අප දුබල යයි කියා			
+Apa Galawannata Jesu - අප ගලවන්නට ජේසු			
+Apa Gana Madakuth Nothaka - අප ගැන මදකුත් නොතකා			
+Apa Pawulata Eliya Aran  - අප පවුලට ඵළිය අරන්			
+Apage Semaye Pratipala Nelala - අපගේ ශ‍්‍රමයේ ප්‍රතිඵල නෙළලා			
+Araliya Athu Aga - අරලිය අතු අග			
+As I Kneel Before You (Ave Maria)			
+As The Deer Panteth			
+Asimithai Apa Dewidunge - අසීමිතයි අප දෙවිඳුන්ගේ			
+Atha Dineka - ඈත දිනෙක			
+Ave Maris Stella			
+Ave Maris Stella - ආවේ මාරිස්ටේල්ලා			
+Ave, Maria (Schubert)			
+Balayan Ma Wethata Enna Idadenu- බාලයන් මා වෙතට එන්න ඉඩදෙනු			
+Baraganna Samidhune - බාරගන්න සමිඳුනේ 			
+Bati Barawa Piyumak Wela - බැති බරව පියුමක් වෙලා			
+Baya Wenna Epa - බය වෙන්න එපා			
+Be Exalted			
+Beda Dennata - බෙදා දෙන්නට			
+Bethlehme Ada Ra Upanna - බෙත්ලෙහෙමේ අද රෑ උපන්නා			
+Biyawee Heduwa - බියවී හැඩුවා			
+Blest Are You, Lord			
+Candlelight Carol			
+Christmas Canon			
+Christmas Canon (Dani's Wedding Edit)			
+Christmas Tree			
+Christus Vinchit			
+Come To The Water			
+Creation’s Hymn (Beethoven)			
+Da Bidhu Kadhuluda - දා බිඳු කඳුළුද			
+Dahasak Thuthi Pesasum - දහසක් තුති පැසසුම්			
+Dawidu Wage - දවිදු වාගේ			
+Dehadak Hamuwee - දෙහදක් හමුවී			
+Dehadak Hamuwi - දෙහදක් හමුවී			
+Dethama Digu Kara - දෑතම දිගු කර			
+Devidunge Balawath Kriya - දෙවිදුන්ගේ බලවත් ක්‍රියා			
+Dew Duwaka Se - දෙව් දුවක සේ			
+Dewa Thatha - දේව තාත්තා			
+Dewathwaye Aalokayen - දේවත්වයේ ආලෝකයෙන්			
+Dewi Piyata Prasnsa Wewa - දෙවි පියාට ප්‍රශංසා වේවා  [Mix]	[Mix]		
+Dewi Samide Ma Hada Sudanam - දෙවි සමිඳේ මා හද සුදානම්			
+Dewidanani (Ihalin Galana Obe Adare) - දෙවිඳාණනේ (ඉහළින් ගලනා ඔබේ ආදරේ)			
+Dewide Obe Dathin - දෙවිඳේ ඔබෙ දෑතින්			
+Dewidhu Pihita Laba Upan - දෙවිඳු පිහිට ලබා උපන්			
+Dewidhu Upanneya Sathuni - දෙවිඳු උපන්නේය සතුනි			
+Dewiduge Dathin - දෙවිදුගේ දෑතින්			
+Dewidune Mage Dewidune - දෙවිඳුනේ මගෙ දෙවිඳුනේ			
+Dewiduni Apa Wethe  - දෙවිදුනි අප වෙතේ			
+Dewiduni Obe Karurawen - දෙවිදුනි ඔබේ කරුණාවෙන්			
+Dewiyan Wahanse Arambayedi (Alokaya Wewa) - දෙවියන් වහන්සේ අරම්භයේදී (ආලෝකය වේවා)			
+Diwaya Suwamiyano - දිව්‍ය ස්වාමියාණෝ			
+Diwya Jesu Me Thama - දිවය ජේසු මේ තමා			
+Diya Soyana Muwa Powweku Se - දිය සොයනා මුව පොව්වෙකු සේ			
+Dubala Apata Denu Laba (St. Jude's Sinhala Hymn) - දුබල අපට දෙනු ලබා  (සාන්ත ඡුඩ් මුනි ගීතිකාව)			
+Dutuwada Jesu - දුටුවාද ජේසු			
+Eda Sitama - එදා සිටම			
+Ehalin Wasena - ඉහළින් වසනා			
+Eka Sithakin Api Kapa Wunu Diwiyaka - ඵක සිතකින් අපි කැපවුනු දිවියක			
+Eka Wadan Mathak Madiwe - එක වදන් මතක් මදිවේ			
+Ekamuthu Kamin Weli  - එකමුතු කමින් වෙලී			
+Emi Piye Emi Piye Wigasa Ma Emi - එමි පියේ එමි පියේ විගස මා එමි			
+Father In My Life I See			
+Feliz Navidad  + හදින් නැගෙනා [Mix]			
+First Holy Commuinion			
+For The Lord			
+Gawa Maduwaka Bilidek - ගව මඩුවක බිළිඳෙක්			
+Gawahale - ගවහළේ			
+Gayaw Gayaw Samidhun Hata Aluth Gee Gayaw - ගයව් ගයව් සමිඳුන් හට අළුත් ගී ගයව්			
+Ginnak Wilasin Ma  - ගින්නක් විලසින් මා			
+Giyado Duras Wenna - ගියදෝ දුරස් වෙන්න			
+Glory To God (Francisco)			
+God Rest Ye Merry Gentlemen			
+Guide Me, O Thou Great Redeemer			
+Hada Sanasana Sangeethaya - හද සනසන සංගීතය			
+Hadawathin Maa Thuthi Pudanne  - හදවතින් මා තූති පුදන්නේ			
+Hail Mary Full Of Grace (Gentle Woman)			
+Hamadamath Oba Maa Samaga - හැමදාමත් ඔබ මා සමඟ			
+Hamuwennam-Alleluia - හමුවෙන්නම් කඳු මුදුනේදී			
+Hark How The Bells (Carol of the Bells)			
+Hark The Herald			
+He Is Lord			
+He Is My Everything			
+Help me Lord Jesus I am only Human			
+Hembala Jerusalame - හෙම්බල ජෙරුසලමේ			
+Hemin Sare Galana - හෙමින් සැරේ ගලනා			
+Hisa Nama  - හිස නමා			
+Hithannata Hitha Liyannata Kawi Wal - හිතන්නට හිත ලියන්නට කවි වැල්			
+Holy, Holy Lord God   			
+Hosanna (Dewidhu Namin Wadina Rajun) - හෝසන්නා  (දෙවිඳු නමින් වඩින රඡුන්)			
+I The Lord			
+Ihalain Wasana - ඉහළින් වසනා			
+In Bread We Bring You Lord			
+Jaya Gath Seka - ජය ගත් සේක			
+Jeewamana Jesugema Amma Mariyani - ජීවමාන ජෙසුගේ ම  අම්මා මරියනි			
+Jeewamanawu Wu Jesu Swamine - ජීවමාන වූ ජේසු සුවාමිනේ			
+Jeewithe Eda - ජිවිතේ එදා			
+Jesu Amme Me Aahannako - ජේසු අම්මේ මේ අහන්නකෝ			
+Jesu Apa Rajanani Amila Wu Siri - ජේසු අපේ රජාණනී අමිල වු ශ්‍රී			
+Jesu Bilidu Ipaduneya - ඡේසු බිළිඳු ඉපඳුනේය			
+Jesu Jesu - ජේසු ජේසූ			
+Jesu Maniyani - ඡේසු මෑණියනී			
+Jesu Samidhuni Obahata We Presansa - ඡේසු සමිඳුනි ඔබ හට වේ ප්‍රශංසා			
+Jesu Smidun Passamin - ජේසු සමිදුන් පසසමින්			
+Jesu Suwami Daruwane - ජේසු ස්වාමි දරුවනේ 			
+Jesuni Nihada Wii - ජේසුනි නිහඩ වී			
+Jesuni Oba Issarawela - ජේසුනි ඔබ ඉස්සර වෙලා			
+Jesuni Oba Kere - ජේසුනි ඔබ කෙරේ			
+Jesuni Oba Maa Lagin - ජේසුනි ඔබ මා ළගින්			
+Jesuni Obe Adare (Hakido Mawakata) - ජේසුනි ඔබේ ආදරේ (හැකිදෝ මවකට)			
+Jesuni Obe Adere - (Wanadana We) - ජේසුනි ඔබේ ආදරේ (වන්දනා වේ)			
+Jingle bells			
+Jiwithe Rudu Mawathe - ජීවිතේ රුදු මාවතේ			
+Joy To The World			
+Joyful, Joyful, We Adore Thee			
+Jubili Geeya (Ekasiya Wisipas) - ජුබිලි ගීය (ඵකසිය විසිපස්)			
+Kadulin Barawu - කඳුලින් බරවූ			
+Kala Nohaki Kisiwak Nathe - කල නොහැකි කිසිවක් නැතේ			
+Kalwariye Kurusaye Galu Rudirayai - කල්වාරියේ කුරුසියේ ගැලූ රුධීරයයි			
+Kanaya Mariyanai - කන්‍ය මරීයනී			
+Kanikka Dewamatha Prarthanawa -  කානික්ක දේවමාතා ප්‍රාර්ථනාව			
+Kapala Kadu Mudune - කපාල කඳු මුදුනේ			
+Katha Kalath Ma Minis Basin -  කතා කලත් මා මිනිස් බසින්			
+Kawadada Enne Samidhun Soya - කවදාද එන්නේ සමිදුන් සොයා			
+Kawi Githa Liyawenna - කවි ගීත ලියවෙන්න			
+Kayadushkaara Praarthanawa - කයදුෂ්කාර ප්‍රාර්ථනාව			
+Kiri Muhuda Kalbu - කිරි මුහුද කැලැඹු			
+Kisida Ma Ath Noharina - කිසිදා මා අත් නොහරින			
+Kisida Nehe Ethuman Nidanne -  කිසිදා නැහැ  ඵතුමන් නිදන්නේ			
+Kunatu Mada - කුණාටු මැද			
+Kurusayak Noma Wi - කුරුසියක් නොම වී			
+Kurusayedi Divi Piduwa - කුරුසියේදී දිවි පිදුවා			
+Kurusiya Darala Yana Witadhi -  කුරුසිය දරලා යන විටදි			
+Kyrie			
+Lassana Samanalayeku Wage - ලස්සන සමනලයෙකු වගේ			
+Lauda Jerusalem Dominum			
+Lauda Jerusalem Dominum (Latin) + English Verses [Mix]			
+Lauda Sion			
+Laudate Omnes			
+Lighting The Oil Lamp			
+Lo Paw Harina - ලෝ පව් හරිනා			
+Lokagra Kanniye - ලෝකාග්‍ර කණ්නියේ			
+Long Time Ago			
+Lord, I Come To You (Power Of Your Love)			
+Lowaki Athe Kadima (Hamuwe Dinaka)  - ලොවකි ඇත්තේ කදිම (හමුවේ දිනක)			
+Lowamea Pipena - ලොවමැ පිපෙන			
+Lowe Papa Nasana Dew Ajapowwanane - ලොවේ පාප නසන දෙව් අජපොව්වාණනේ			
+Ma Balawath Karana - මා බලවත් කරනා සමිදේ			
+Ma Dubali Samidhe  - මා දුබලයි සමිඳේ			
+Ma Ha Gaman Ganna Wu (Yawe Dhewthuma) - මා හා ගමන් ගාන්නාවූ (යාවේ දෙවිතුමා)			
+Ma Mawni Athi Premanieya Wu (Lowe Uthum Amma Obaya Kiya) - මා මව්නි අති ප්‍රේමනීය වු (ලොවේ උතුම් අම්මා ඔබය කියා)			
+Maa Diwi Katharata Oba Aaa Arumaya - මා දිවි කතරට ඔබ ආ අරුමය			
+Maa Ganna Husmak Paasa - මා ගන්නා හුස්මක් පාසා			
+Maa Samide - මා සමිදේ			
+Maa Wenuwen - මා වෙනුවෙන්			
+Mage Desa - මගේ දෑස			
+Mage Dewide Ragidhe - මගේ දෙවිදේ රඡිදේ			
+Mage Diwi Pana Nala Rakinne - මගෙ දිවි පණ නල රකින්නේ			
+Mage Duka Kiyanna Awa Jesuni -  මගේ දුක කියන්න ආවා ජේසුනි			
+Mage Durwala Then - මගේ දුර්වල තැන්			
+Mage Jeewanayama Oba We - මගේ ඡීවනයම ඔබ වේ			
+Mage Jiwithe Obata Barai - මගේ ජිවිතේ ඔබට බාරයි			
+Mage Piyanani Wadinu Manawi - මගේ පියාණනි වඩිනු මැනවි			
+Magificat			
+Mahada Pipi - මහද පිපී			
+Make Me a Channel of Your Peace			
+Mal Piduwata Neka Patin - මල් පිදුවට නෙක පාටින්			
+Mal Pipila Thurilya Mudhune - මල් පිපිලා තුරුලිය මුදුනේ			
+Mal Renu Ron  - මල් රේණු රොන්			
+Man Adarei Mage Jesu - මං ආදරෙයි මගේ ජේසු			
+Mariye Oba Sri Dehe - මරියේ ඔබ ශ්‍රී දෙහේ			
+Maruda Madu  - මරුද මඬු			
+Mary, Did You Know			
+Mata Asai Oba Deka Gannata - මට අසයි ඔබ දැක ගන්නට			
+Mata Daranna Behe - මට දරන්න බැහැ			
+Mawa Galewwe Oba Pamanai - මාව ගැලෙව්වේ ඔබ පමණයි			
+Me Gee Gaya Weena Gaya - මේ ගී ගයා වීණා වයා  			
+Me Mohothe - මේ මොහොතේ			
+Mihiri Suwadak Lasin - මිහිරි සුවදක් ලෙසින්			
+Monawa Hari Karanawamai - මොනවා හරි කරනවාමයි			
+Mortem Tuam			
+Mystery of Faith			
+Nagena Hiru Rasin - නැගෙනා හිරු රැසින්			
+Nagena Lahiru Rasin - නැගෙනා ලහිරු රැසින්			
+Nagitaw Ekawew - නැගිටිව් එකවව්			
+Namadimi Oba Dewi Samide  - නමදිමි ඔබ දෙවි සමිදේ			
+Namaskara We Jesu Samidhune - නමස්කාර වේ ඡේසු සමිඳුනේ			
+Namo Mariya Maniyane - නමෝ මරිය මෑණියනේ			
+Namo Mariyani (Dewa Puthraya Sprinthu) - නමෝ මරියනී (දේව පුත්‍රයා ස්ප්‍රීතූ)			
+Namo Namo Geethe -  නමෝ නමෝ ගීතේ  (Ave Maria - Sinhala)			
+Namo Namo Namo Wadimu - නමෝ නමෝ නමෝ වඳිමු			
+Nawamu Panak Labala - නවමු පණක් ලබලා			
+Nearer, My God, to Thee			
+Nisasala Mema Ra - නිසසල මෙම රෑ			
+Noba Sitinata - නොබා සිටිනට			
+Nosidi Galana - නොසිදී ගලනා			
+O Come Divine Messiah			
+O Come, All Ye Faithful			
+O Filii Et Filiae			
+Oba Ayemath Awadhin - ඔබ ආයෙමත් ඇවදින්			
+Oba Dakinnata Sama Dawasema -  ඔබ දකින්නට සෑම දවසෙම			
+Oba Depa Mula Maa - ඔබ දෙපා මුල මා			
+Oba Hata Presanna Daruwek Wannata - ඔබ හට ප්‍රසන්න දරුවෙක් වන්නට 			
+Oba Kara Daru Siri Kurusiya -  ඔබ කරදැරු සිරි කුරුසිය			
+Oba Lowa Yahapatha -  ඔබ ලොව යහපත			
+Oba Namadinnata - ඔබ නමදින්නට			
+Oba Pamanai Ma - ඔබ පමණයි මා 			
+Oba Thurulata Wee - ඔබ තුරුලට වී			
+Oba Wachnaya Lesa (Mariya Washara) - ඔබ වචනය ලෙස (මරිය වසර)			
+Obage Adare - ඔබගේ ආදරේ			
+Obath Math Madha - ඔබත් මාත් මැද			
+Obe Atha Digu Karala - ඔබේ අත දිගු කරලා			
+Obe Mawathin - ඔබේ මාවතින් 			
+Paapi Mage Hada Obe (Pidi Pidi Pidhewa) - පාපී මගේ හද ඔබේ (පිදී පිදී පිදේවා)			
+Paapi Sitha Pawa - පාපී සිත පවා			
+Pambara Jesuni  Suwamini - පෙම්බර ජේසුනි ස්වාමීනී			
+Papayan Lowe Maka Damana - පාපයන් ලොවේ මකා දමන			
+Paramoththama Wu - පරමෝත්තම වූ			
+Parisuddaya Samaidun -  පරිශුද්ධය සමිඳුන්			
+Pasasavu Samidun Udesa Mari Maw - පසසව් සමිඳුන් උදෙසා මරිමව්			
+Pathana Patiharyayyan - පතන ප්‍රාතිහාර්යයන්			
+Paw Aduren Ethere Wanna - පව් අඳුරෙන් එතෙර වන්න			
+Paw Karayaki Mama - පව් කාරයකි මම			
+Pawanak Wela Enna - පවනක් වෙලා එන්න			
+Payana Tharuwa Bala - පායන තරුව බලා			
+Pini Podha Asiri - පිනි පොද ආසිරි			
+Podi Podi Piyawara - පොඩි පොඩි පියවර 			
+Prasansa Wewa Jesuni Samadha - ප්‍රශංසා වේවා ඡේසුනී සෑමදා			
+Prithi Gee Nadin (Alleluya) - ප්‍රීති ගී නදින් (ආලේලුයා)			
+Pubudu Sithin - පුබුදු සිතින්			
+Pudana Paduru Samaga Obata - පුදන පැඬුරු සමඟ ඔබට			
+Pudasuna Mathuye - පුදසුන මතුයේ			
+Pudhana Paduru - පුදන පඬුරු			
+Pudhasune Obata Pidhena - පුදසුනේ ඔබට පිදෙනා 			
+Pujasanaya Matha (Punchi Thithak) - පුජාසනය මත (පුංවි තිතක්)			
+Pulun Wage - පුළුන් වගෙයි			
+Pun Sadak Wage - පුන් සඳක් වාගේ			
+Punchi Rahask Kiyannyi Haddane - පුංචි රහසක් කියන්නයි හදන්නේ			
+Purawanna Jesuni  - පුරවන්න ජේසුනි			
+Ra Ahase - රෑ අහසේ			
+Rajadi Rajamani - රාජාදි රාජමනී (සිංහල වචන)			
+Raw Dewa - රැව් දේවා			
+Sada Pahane Pipi Watakeya Mala Se - සඳ පහනේ පිපි වැටකෙයා මල සේ			
+Sada Saranye Ma - සදා සරණයේ මා			
+Sadasarana Mariye - සදාසරණ මරියේ			
+Sadhaham Damin - සදහම් දැහැමින්			
+Sadhathane Sadhanane - සදාතනේ සඳාණනේ			
+Samaya Deviyange - සාමය දෙවියන්ගේ			
+Samaye Kiyu Kathandare - සාමයේ කියූ කතන්දරේ			
+Samaye Kumara Apa Galawannata - සාමයේ කුමරා අප ගලවන්නට			
+Samidano Mawwa Me Dinaye - සමිඳාණෝ මැව්ව මේ දිනයේ			
+Samidhe Oba Obe Desata - සමිඳේ ඔබ ඔබේ දෙසට			
+Samidhu Sapiri Guna Suwadhin - සමිඳු සපිරි ගුණ සුවඳින්			
+Samidhun Hata Thuthi Gee Gayala - සමිඳුන් හට තුති ගී ගයලා			
+Samidhun Jaya Lada Derene - සමිඳුන් ජය ලද දෙරණේ			
+Samidhun Mawwa Dinaya - සමිඳුන් මැව්ව දිනය 			
+Samidhun Sri Wachane - සමිඳුන් ශ්‍රී වචනේ			
+Samidhuni Ma Dinu Rata Obege - සමිඳුනි මා දිනූ රට ඔබගේ			
+Samidhuni Maa Sparsha Karanna - සමිඳුනි මා  ස්පර්ශ කරන්න			
+Samidhuni Oba Apa Athare - සමිඳුනි ඔබ අප අතරේ			
+Samidhuni Oba Ata Ath Harala - සමිදුනි ඔබ අත අත් හැරලා			
+Samidhuni Obe Wachana - සමිඳුනි ඔබ වචන			
+Samido Ukuth Wuno - සමිදෝ උකුත් වුණෝ			
+Samido Ukuth Wuno (Nawatha Nawatha Wadino) - සමිදෝ උකුත් වුණෝ (නැවත නැවත වඬිනෝ)			
+Samido Ukuth Wuno (Samidano Samidano) - සමිදෝ උකුත් වුනෝ (සමිඳාණෝ සමිඳාණෝ)			
+Samidune Oba Idiriye - සමිඳුනේ ඔබ ඉදිරියේ			
+Samidune Samidhune (Sama Wuwa Mane) - සමිඳුනේ සමිඳුනේ (සමා වුව මැනේ)			
+Sanctus			
+Sanctus | Libera			
+Sanctus Dominus			
+Sandra Sura Nidhun - සන්ද්‍ර සුර නිදුන්			
+Sangeethaya Wishaye - සංගීතය විෂයේ 			
+Sathprasadaye Weda Sitina - සත්ප්‍රසාදයේ වැඩ සිටිනා			
+Sathsara Wahena Horawe - සත්සර වැයෙනා හෝරාවේ 			
+Saw Sirin Sapiri Mariyani - සව් සිරින් සපිරි මරියනි			
+Seema Maim Wata Wuna Loke -  සීමා මායිම් වට  වූණු ලෝකේ			
+Seemawak Nathi Nimawak Nati  - සීමාවක් නැති නිමාවක් නැතී			
+Seethala Sulaga Hamai - සීතල සුළග හමයි			
+Senehasa Gala Giya - සෙනෙහස ගලා ගියා			
+Senehawantha Parthanawa (Pirisidu Kanaya Sthri) - සෙනෙහෙවන්ත ප්‍රාර්ථනාව (පිරිසිඳු කන්‍යා ස්ත්‍රී)			
+Shine Jesus Shine			
+Shout to the Lord			
+Shudda Wanatha Wu (Wandaniya Wu Mode) - ශුද්ධවන්ත වු (වන්දනීය වු)			
+Shuddathmeni Jiwadayakayeni (Heli Heli) - ශුද්ධාත්මෙනී ජීවදායකයෙනී  (හේළි හේළි)			
+Shuddawu Athmayanan Wahansa - ශුද්ධවූ ආත්මයාණන් වහන්ස			
+Shuddaya Shuddaya Shuddya Samidha - ශුද්ධය ශුද්ධය ශුද්ධය සමිඳ			
+Shuddya Ati Shuddaya - ශුද්ධය අති ශුද්ධය			
+Silent Night			
+Sing To The Mountains			
+Sitha Suwapath Wee - සිත සුවපත් වී			
+Sithe Ethi Duka Daragannata - සිතේ ඇති දුක දරාගන්නට			
+Smaide Oba Depa Sewane - සමිඳේ ඔබ දෙපා සෙවනේ			
+Sodanu Mana Samide - සෝදනු මැන සමිදේ			
+Somiuru Wu - සොමියුරු වූ			
+Spaarsha Karanna Ma - ස්පර්ශ කරන්න මා			
+Sparsha Karan Mage Piyani - ස්පර්ශ කරන් මගේ පියාණනි			
+Sthuthi Wewa Presansa Wewa - ස්තූති වේවා ප්‍රශංසා වේවා			
+Sudath Suriduni -  සුදත් සුරිඳුනි			
+Sudathmayanani (Wadinna Ragenna Ginna Obage) - ශුද්ධාත්මයාණනි (වඩින්න රැගෙන ගින්න ඔබගේ)			
+Sudathmayanani Wadinu Mane - ශුද්ධාත්මයාණනි වඩිනු මැනේ			
+Sudathmayannan Laba Ganna Mage Jiwithe - ශුද්ධාත්මයාණන් ලබා ගන්න මගේ ජිවිතේ 			
+Sudathmayni Wadinna Apa Wetheta - ශුද්ධාත්මෙනි වඩින්න අප වෙතටා			
+Suddathma Alokaye - ශුද්ධාත්ම ආලෝකයේ  [Fr.Tilakasiri]			
+Suddathmeni (Waswalamin) - ශුද්ධාත්මෙනි (වස්වාලමින්)			
+Suddathmeni Obatai Me Aradana - ශුද්ධාත්මයාණෙනි ඔබටයි මේ ආරාධනා			
+Suddawu Mahimatawe - ශුද්ධවූ මහිමතාවේ			
+Suddaya Athi Bala Mahime Dewidhano - ශුද්ධය අති බල මහිමේ දෙවිදාණෝ			
+Sudu Malak Wela - සුදු මලක් වෙලා			
+Sulan Sadaki Jeewithe Ape - සුළං සැඩකි ඡිවිතේ අපේ			
+Sundhara Nawum Lokayak - සුන්දර නැවුම් ලෝකයක්			
+Sunu Wisunu Kale - සුනු විසුනු කලේ			
+Sura Geeyai Biludhu Hadai - සුර ගිියයි බිළිඳු හඬයි			
+Sura Loken Me Lo - සුර ලෝකෙන් මේ ලො			
+Sura Lowin Pahala Wu - සුර ලොවින් පහළ වු			
+Suralo Mandala Saradhewa - සුරලෝ මණ්ඩල සැරදේවා			
+Suralow Madale - සුරලෝ මඩලේ			
+Suralowa Dewiduta (Ethuman Hada Dinu) - සුරලොව දෙවිදුට (එතුමන් හද දිනු)			
+Suriduni Us Mandele - සූරිඳුනි උස් මඩලේ			
+Suwade Hamana - සුවඳ හමන			
+Suwamini Karuna - ස්වාමිනි කරුණා			
+Suwamini Mawumkaru  - ස්වාමිනි මැවුම්කරු			
+Suwisidhuwe Samide - සුවිසුදුවේ සමිඳේ			
+Suwisudda Wu Parishuda Wu - සුවිශුද්ධවූ පරිශුද්ධ වූ			
+Suwisuddaya (Maha Balathi Dewi Samidhano) - සුවිශුද්ධය (මහා බලැති දෙවි සමිදාණෝ )			
+Suwisuduwe Samide - සුවිසුදුවේ සමිඳේ			
+Tantum Ergo			
+Tantum Ergo (With Sinhala Pronunciation Lyrics)			
+Thalena Thalena Sadun Gasin - තැලෙන තැලෙන සඳුන් ගසින්			
+The Holy City			
+The Lord Bless You			
+The Lord Is My Shepherd			
+The Mystery Of Faith			
+There Shall Be Showers			
+Thuru Mal Pipila - තුරු  මල් පිපිලා			
+Thuthi Gosa Nagamu - තුති ගොස නගමු			
+Thuthi Prasnsa We - තුති ප්‍රශංසා වේ			
+Udayata Payana Hiru Men Dilena - උදයට පායන හිරු මෙන් දිලෙනා			
+Ukule Howa - උකුලේ හොවා 			
+Veni Creator			
+Veni, Veni Emmanuel			
+Wachanaye Dasiyayi - වචනයේ දාසියයි			
+Wadinu Dew Masiya  - වඩිනු දෙව් මැසියා + O Come, Divine Messiah!  [Mix]			
+Walakule Naga Giya Samidhun - වළාකුලේ නැඟ ගිය සම්ඳුන්			
+Wanamin Dewidhun Warune - වනමින් දෙවිදුන් වරුණේ			
+Wandana Karamu Sirasa Nama - වන්දනා කරමු සිරස නමා			
+Wasanthayak Digu Jeewitha Gamanata - වසන්තයක් දිගු ජිවිත ගමනට			
+Waswa Dahas Wara - වස්වා දහස් වර			
+We Prasansa We - වේ ප්‍රශංසා වේ			
+We Three Kings of Orient Are			
+Wen Wee Yannata - වෙන් වී යන්නට			
+What Child Is This			
+Wherever You Go (Song of Ruth)			
+Wijaya Sri - විජය ශ්‍රි			
+You By My Side			
+You Raise Me Up			
