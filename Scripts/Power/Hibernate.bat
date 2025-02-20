@@ -1,1 +1,1 @@
-shutdown.exe -h
+C:\Windows\System32\shutdown.exe -h

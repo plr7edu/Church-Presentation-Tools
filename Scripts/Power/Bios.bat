@@ -25,4 +25,4 @@ if '%errorlevel%' NEQ '0' (
     CD /D "%~dp0"
 :--------------------------------------
 
-shutdown.exe /r /fw /t 1
+C:\Windows\System32\shutdown.exe /r /fw /t 1

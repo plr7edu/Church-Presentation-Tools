@@ -1,1 +1,1 @@
-shutdown.exe -r -o -f -t 00
+C:\Windows\System32\shutdown.exe -r -o -f -t 00
